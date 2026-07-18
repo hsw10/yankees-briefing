@@ -1,0 +1,235 @@
+{
+  "refreshedAt": "2026-07-17T22:02:17.186012-04:00",
+  "sites": [
+    {
+      "name": "Pinstripe Alley",
+      "url": "https://www.pinstripealley.com/",
+      "feed": "https://www.pinstripealley.com/rss/index.xml",
+      "logo": "https://cdn.vox-cdn.com/uploads/chorus_asset/file/23493847/PinstripeAlley.png",
+      "kind": "feed",
+      "accent": "#d4a72c",
+      "posts": [
+        {
+          "title": "New York Yankees vs. Los Angeles Dodgers: Gerrit Cole vs. Roki Sasaki",
+          "url": "https://www.pinstripealley.com/pinstripe-alley-discussions/197786/yankees-dodgers-game-thread-probable-pitchers-starting-lineups-tv-channel-how-to-watch-cole-sasaki",
+          "published": "2026-07-17T18:35:00+00:00",
+          "excerpt": "Two World Series contenders coming off sweeps before the All-Star break will meet at Yankee Stadium for a three-game weekend set to begin the second half. There’s just one thing: the Dodgers weren’t the ones doing the sw",
+          "image": ""
+        },
+        {
+          "title": "Yankees share Aaron Judge injury update on broken rib",
+          "url": "https://www.pinstripealley.com/yankees-news/197815/yankees-aaron-judge-injury-update-il-ribs-broken-healing-news",
+          "published": "2026-07-17T17:59:55+00:00",
+          "excerpt": "Right as the Yankees return to play following the All-Star break, there is news on the Aaron Judge front. The Yankees’ captain underwent a re-imaging procedure on his fractured rib on Wednesday, and the results could see",
+          "image": ""
+        },
+        {
+          "title": "Yankees Mailbag: Options for catcher and Lombard’s window",
+          "url": "https://www.pinstripealley.com/pinstripe-alley-discussions/197780/yankees-mailbag-tyler-stephenson-jeffers-goodman-catcher-lombard-jr-fast-track-promotion-volpe-prospect-incentives",
+          "published": "2026-07-17T16:00:00+00:00",
+          "excerpt": "Good afternoon everyone, it’s time to dive back into the mailbag and answer some of your questions. Remember to send in your questions for our weekly call by e-mail to pinstripealleyblog [at] gmail [dot] com. Michael G. ",
+          "image": ""
+        },
+        {
+          "title": "Yankees Draft: 2026 pick tracker and social media guide",
+          "url": "https://www.pinstripealley.com/yankees-mlb-draft/196844/mlb-draft-2026-yankees-signings-tracker-top-pick-signs-first-round-hunter-dietz-social-media",
+          "published": "2026-07-17T15:16:18+00:00",
+          "excerpt": "The 2026 edition of the Major League Baseball Draft is well underway! The action got started early on Saturday afternoon with the Chicago White Sox making UCLA shortstop Roch Cholowsky the No. 1 overall selection, and th",
+          "image": ""
+        },
+        {
+          "title": "Homer, Baseball, and the Art of Storytelling",
+          "url": "https://www.pinstripealley.com/mlb-news/197727/mlb-baseball-storytelling-christopher-nolan-homer-odyssey",
+          "published": "2026-07-17T14:00:00+00:00",
+          "excerpt": "If you’re a fan of Christopher Nolan films, ancient Greek mythology, or that weird Hollywood genre where we spend lots and lots of money to rescue Matt Damon (see: Saving Private Ryan, The Martian, Interstellar, Elysium)",
+          "image": ""
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Bronx Pinstripes",
+      "url": "https://bronxpinstripes.com/",
+      "logo": "https://bronxpinstripes.com/favicon.ico",
+      "kind": "bronx",
+      "accent": "#c9a227",
+      "posts": [
+        {
+          "title": "Ben Rice's 8th-Inning Triple Caps a Sweep in Washington",
+          "url": "https://bronxpinstripes.com/articles/2026-07-12-yankees-vs-nationals-recap",
+          "published": "July 12, 2026",
+          "excerpt": "Ben Rice's go-ahead triple in the 8th lifted the Yankees past the Nats 5-3, completing a sweep and stretching the win streak to four before the break.",
+          "image": "https://cdn.sanity.io/images/8v97gwxg/production/6b0e13628c9f174983f31ae055127834d897540a-1920x1080.jpg?rect=96%2C0%2C1728%2C1080&w=3840&h=500&q=80&auto=format"
+        },
+        {
+          "title": "Three Straight Homers in the 8th Lift Yankees Past Nationals, 4-2",
+          "url": "https://bronxpinstripes.com/articles/2026-07-11-yankees-vs-nationals-recap",
+          "published": "July 11, 2026",
+          "excerpt": "Down 2-0 into the 8th, the Yankees crushed three straight homers off the Nationals bullpen to erase the deficit and win Game 2, 4-2.",
+          "image": "https://cdn.sanity.io/images/8v97gwxg/production/fab16f3a59f8bb79272b364e45b3b0e5adc8f4fb-1920x1080.jpg?rect=96%2C0%2C1728%2C1080&w=3840&h=500&q=80&auto=format"
+        },
+        {
+          "title": "Ben Rice's Two Homers, Five RBI Power Yankees Past Rays 12-4",
+          "url": "https://bronxpinstripes.com/articles/2026-07-09-yankees-vs-rays-recap",
+          "published": "July 9, 2026",
+          "excerpt": "Ben Rice homered twice and drove in five as the Yankees routed the Rays 12-4, salvaging a split of the four-game series.",
+          "image": "https://cdn.sanity.io/images/8v97gwxg/production/0885d2cbd8cc2c60fdd758d8cb9b86143a45dec1-1920x1080.jpg?rect=96%2C0%2C1728%2C1080&w=3840&h=500&q=80&auto=format"
+        },
+        {
+          "title": "Jonathan Aranda Does It Again: Rays Blank Yankees 3-0, Boone Ejected",
+          "url": "https://bronxpinstripes.com/articles/2026-07-08-yankees-vs-rays-recap",
+          "published": "July 9, 2026",
+          "excerpt": "Jonathan Aranda drove in all three runs as the Rays blanked the Yankees 3-0, and Aaron Boone got tossed for good measure.",
+          "image": "https://cdn.sanity.io/images/8v97gwxg/production/36a8f3148bd40f71b2787687f429fc5ef050559a-1920x1080.jpg?rect=96%2C0%2C1728%2C1080&w=3840&h=500&q=80&auto=format"
+        },
+        {
+          "title": "Ben Rice Goes Deep, But Three Rays Homers Sink Yankees, 6-4",
+          "url": "https://bronxpinstripes.com/articles/2026-07-07-yankees-vs-tampa-bay-rays-recap",
+          "published": "July 8, 2026",
+          "excerpt": "Ben Rice crushed a 3-run homer off Ian Seymour, but the Rays answered with three homers of their own to beat the Yankees 6-4 at the Trop.",
+          "image": "https://cdn.sanity.io/images/8v97gwxg/production/c8e57bea21de20be8dcde84badefb1db19c826d0-1920x1080.jpg?rect=96%2C0%2C1728%2C1080&w=3840&h=500&q=80&auto=format"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "MLB Trade Rumors",
+      "url": "https://www.mlbtraderumors.com/new-york-yankees",
+      "feed": "https://www.mlbtraderumors.com/new-york-yankees/feed",
+      "logo": "https://www.mlbtraderumors.com/favicon.ico",
+      "kind": "feed",
+      "accent": "#df3b31",
+      "posts": [
+        {
+          "title": "Yankees Have Shown Past Interest In Hunter Goodman",
+          "url": "https://www.mlbtraderumors.com/2026/07/yankees-have-shown-past-interest-in-hunter-goodman.html",
+          "published": "2026-07-17T18:19:25+00:00",
+          "excerpt": "The Yankees are looking for catching help and Hunter Goodman of the Rockies is a speculative trade candidate. Jorge Castillo of ESPN reports that the Yankees have called the Rockies about Goodman, although not recently. ",
+          "image": ""
+        },
+        {
+          "title": "Jonathan Ornelas To Opt Out Of Yankees Deal",
+          "url": "https://www.mlbtraderumors.com/2026/07/jonathan-ornelas-to-opt-out-of-yankees-deal.html",
+          "published": "2026-07-17T04:49:22+00:00",
+          "excerpt": "Infielder Jonathan Ornelas is opting out of his minor league deal with the Yankees, reports Francys Romero. He’ll become a free agent if New York doesn’t select him onto the MLB roster. Ornelas signed a non-roster deal l",
+          "image": ""
+        },
+        {
+          "title": "Yankees Notes: Judge, Catcher, Lombard, Rotation",
+          "url": "https://www.mlbtraderumors.com/2026/07/yankees-notes-judge-catcher-lombard-rotation.html",
+          "published": "2026-07-10T04:00:09+00:00",
+          "excerpt": "Yankees general manager Brian Cashman met with reporters on Thursday afternoon to provide some health updates and discuss the club’s early deadline outlook (links via Chris Kirschner of The Athletic and Bryan Hoch of MLB",
+          "image": ""
+        },
+        {
+          "title": "Al Holland Passes Away",
+          "url": "https://www.mlbtraderumors.com/2026/07/al-holland-passes-away.html",
+          "published": "2026-07-06T18:43:32+00:00",
+          "excerpt": "The Phillies announced that former big league pitcher Al Holland has passed away. He was 73 years old. Holland was born in Roanoke, Virginia in 1952. After graduating high school, Holland attended North Carolina A&T Stat",
+          "image": ""
+        },
+        {
+          "title": "Yankees Notes: Rodón, Fried, Chisholm Jr.",
+          "url": "https://www.mlbtraderumors.com/2026/07/yankees-notes-rodon-fried-chisholm-jr.html",
+          "published": "2026-07-05T22:43:52+00:00",
+          "excerpt": "With less than a month to go before the trade deadline, the Yankees are thought to be prioritizing a right-handed hitting catcher and high-leverage relief arms in talks with other clubs. In contrast, the rotation has bee",
+          "image": ""
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Yanks Go Yard",
+      "url": "https://yanksgoyard.com/",
+      "feed": "https://yanksgoyard.com/feed/",
+      "logo": "https://yanksgoyard.com/favicon.ico",
+      "kind": "feed",
+      "accent": "#1c4d8c",
+      "posts": [
+        {
+          "title": "Yankees fans will be nauseated by much-maligned former reliever's resurgence",
+          "url": "https://yanksgoyard.com/yankees-fans-will-be-nauseated-by-much-maligned-former-reliever-resurgence?utm_source=RSS",
+          "published": "2026-07-17T22:26:00+00:00",
+          "excerpt": "Jonathan Loaisiga tortured the New York Yankees fans for years, but now the former pinstriped reliever has revived his career with the Arizona Diamondbacks.",
+          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_4216,h_2371,x_0,y_0/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/43/01kxehb5865yzmkjse06.jpg"
+        },
+        {
+          "title": "Yankees’ vague Aaron Judge update feels like his 2026 season is in danger",
+          "url": "https://yanksgoyard.com/yankees-vague-aaron-judge-update-feels-like-his-2026-season-is-in-danger-01kxrvh7ec35?utm_source=RSS",
+          "published": "2026-07-17T20:34:24+00:00",
+          "excerpt": "Aaron Judge made everyone wait nearly seven weeks for a meaningful update on his fractured rib, and it did little to justify the anticipation.",
+          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_4644,h_2612,x_0,y_130/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/43/01kxrvkqqk3ndkpezz8s.jpg"
+        },
+        {
+          "title": "Somerset's all-time hits leader will scratch a Yankees trade deadline itch one way or another",
+          "url": "https://yanksgoyard.com/somerset-all-time-hits-leader-will-scratch-a-yankees-trade-deadline-itch-one-way-or-another?utm_source=RSS",
+          "published": "2026-07-17T15:57:00+00:00",
+          "excerpt": "Tyler Hardman became Somerset's all-time hits leader and carried his hot bat to Scranton, putting him in position to be a solution for the New York Yankees.",
+          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_2950,h_1659,x_0,y_402/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/43/01kxfxkkr9fb8kb2fjj5.jpg"
+        },
+        {
+          "title": "Rockies' Hunter Goodman addresses surprising road success amid Yankees trade rumors",
+          "url": "https://yanksgoyard.com/rockies-hunter-goodman-addresses-surprising-road-success-amid-yankees-trade-rumors?utm_source=RSS",
+          "published": "2026-07-17T13:42:00+00:00",
+          "excerpt": "Hunter Goodman of the Colorado Rockies has heard the New York Yankees rumors and his own road splits and is trying not to comment.",
+          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_8256,h_4644,x_0,y_467/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/43/01kxnkhxxpnmdgscgpac.jpg"
+        },
+        {
+          "title": "Insane Yankees schedule after 2026 All-Star break won't help them fully shake off swoon",
+          "url": "https://yanksgoyard.com/insane-yankees-schedule-after-2026-all-star-break-wont-help-them-fully-shake-off-swoon?utm_source=RSS",
+          "published": "2026-07-17T11:24:00+00:00",
+          "excerpt": "The 2026 New York Yankees schedule only continues to heat up after the All-Star break. Could be worth taking seriously.",
+          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_3750,h_2109,x_0,y_0/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/43/01kx0xgtdjw6jkt33nf3.jpg"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Official New York Yankees",
+      "url": "https://www.mlb.com/yankees",
+      "feed": "https://www.mlb.com/yankees/feeds/news/rss.xml",
+      "logo": "https://www.mlbstatic.com/team-logos/147.svg",
+      "kind": "feed",
+      "accent": "#0c2340",
+      "posts": [
+        {
+          "title": "Cole talks way into staying in -- then yields HR to end otherwise strong start",
+          "url": "https://www.mlb.com/yankees/news/gerrit-cole-allows-2-runs-in-6-plus-innings-for-yankees-against-dodgers",
+          "published": "2026-07-18T01:30:00+00:00",
+          "excerpt": "",
+          "image": ""
+        },
+        {
+          "title": "Judge's re-imaging shows healing, but not enough for baseball activities",
+          "url": "https://www.mlb.com/yankees/news/aaron-judge-rib-injury-update-not-cleared-for-baseball-activities",
+          "published": "2026-07-18T00:05:00+00:00",
+          "excerpt": "",
+          "image": ""
+        },
+        {
+          "title": "Fried goes 3 innings in first rehab start with Yanks' Triple-A squad",
+          "url": "https://www.mlb.com/yankees/news/max-fried-first-rehab-start-triple-a",
+          "published": "2026-07-18T00:18:00+00:00",
+          "excerpt": "",
+          "image": ""
+        },
+        {
+          "title": "Dodgers, Yankees open second half in potential postseason preview",
+          "url": "https://www.mlb.com/yankees/news/dodgers-at-yankees-opens-second-half-in-new-york",
+          "published": "2026-07-16T03:02:04+00:00",
+          "excerpt": "",
+          "image": ""
+        },
+        {
+          "title": "Each team's biggest trade chip as Deadline nears",
+          "url": "https://www.mlb.com/yankees/news/every-mlb-team-biggest-trade-deadline-chip-2026",
+          "published": "2026-07-17T01:04:02+00:00",
+          "excerpt": "",
+          "image": ""
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "errors": []
+}
