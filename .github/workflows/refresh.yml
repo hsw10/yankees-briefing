@@ -1,4 +1,4 @@
-name: Refresh Yankees briefing
+name: Refresh Division I baseball newsroom
 
 on:
   schedule:
@@ -28,5 +28,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data.json
-          git commit -m "chore: refresh Yankees briefing"
+          git commit -m "chore: refresh Division I baseball newsroom"
           git push
