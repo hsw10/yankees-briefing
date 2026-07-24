@@ -1,8 +1,6 @@
-# Division I NCAA Baseball Newsroom
+# Yankees Briefing
 
-A public, static Division I college-baseball news dashboard with **NCAA Baseball News** plus conference groupings for the **SEC**, **ACC**, **Big Ten**, **Big 12**, and **Mid-Major** coverage (AAC, Sun Belt, C-USA, WCC, and more).
-
-Each section displays five current, topical stories from a conference-specific Google News search and links directly to the originating publisher. Select a conference name or its **View all** link to open a conference-specific page with up to 15 stories.
+A public, static Yankees news dashboard that displays the five newest posts from Pinstripe Alley, Bronx Pinstripes, MLB Trade Rumors, Yanks Go Yard, and the official New York Yankees site.
 
 ## Refreshes
 
@@ -17,8 +15,8 @@ python3 server.py
 # open http://127.0.0.1:8787/
 ```
 
-The hosted GitHub Pages site is read-only; its data is refreshed by the workflow. The local preview's update control runs `refresh.py` through `server.py`.
+The hosted GitHub Pages site is read-only; its data is refreshed by the workflow.
 
 ## Sources
 
-Article cards are sourced from conference-specific Google News searches and link directly to their original publishers. Conference logos and article imagery remain property of their respective owners.
+Content, logos, and post imagery remain property of their respective publishers. Article cards link directly to the original source.
