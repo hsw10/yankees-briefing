@@ -1,5 +1,5 @@
 {
-  "refreshedAt": "2026-07-30T15:15:33.147690+00:00",
+  "refreshedAt": "2026-07-31T15:23:36.598978+00:00",
   "sites": [
     {
       "name": "Pinstripe Alley",
@@ -10,38 +10,38 @@
       "accent": "#d4a72c",
       "posts": [
         {
-          "title": "Yankees Birthday of the Day: Casey Stengel",
-          "url": "https://www.pinstripealley.com/yankees-history-trivia/199627/yankees-history-casey-stengel-birthday-july-30-manager-hall-of-fame",
-          "published": "2026-07-30T10:30:00+00:00",
-          "excerpt": "I had the pleasure of writing one of these birthday profiles for legendary Yankees manager and the head honcho for the late 90s dynasty, Joe Torre. There aren’t many who can match Torre’s managerial career, and even fewe",
+          "title": "Yankees Birthday of the Day: Hank Bauer",
+          "url": "https://www.pinstripealley.com/yankees-history-trivia/199274/yankees-history-hank-bauer-1950s-dynasty-casey-stengel-copacabana-incident-athletics-orioles",
+          "published": "2026-07-31T10:30:00+00:00",
+          "excerpt": "If you’re a baseball history buff, you probably recognize the name Hank Bauer. While he was never the team’s main star, he had a very good career on some very good Yankees teams, winning seven World Series titles. Howeve",
           "image": ""
         },
         {
-          "title": "Yankees Sequence of the Week: David Bednar (7/28)",
-          "url": "https://www.pinstripealley.com/yankees-analysis-sabermetrics/199645/yankees-mlb-pitching-analysis-david-bednar-closer-bullpen-strikeout-everson-pereira-white-sox",
-          "published": "2026-07-30T09:30:00+00:00",
-          "excerpt": "The Yankees have gotten off to a decent start on their ten-game road trip, winning four of the first six contests. They have put themselves in position to win three out of four from the White Sox, which would send them t",
+          "title": "Yankees Rivalry Roundup: Shane McClanahan exits with injury, but Rays still win on late comeback",
+          "url": "https://www.pinstripealley.com/mlb-news/199773/yankees-rivals-scores-rays-rangers-shane-mcclanahan-injury-red-sox-mariners",
+          "published": "2026-07-31T09:30:00+00:00",
+          "excerpt": "Welp, it looks like the Yankees offense is back in the toilet after a promising start to their series against the White Sox. They have failed to score in 28 of their last 32 innings played, scoring just two unearned runs",
           "image": ""
         },
         {
-          "title": "Yankees Rivalry Roundup: Rays blank Rangers, bolster AL East lead",
-          "url": "https://www.pinstripealley.com/mlb-news/199605/yankees-rivals-scores-rays-rangers-red-sox-dodgers-mariners-guardians-reds",
-          "published": "2026-07-30T08:30:00+00:00",
-          "excerpt": "Well, that was a horrible way to lose a baseball game. You just can’t lose when your ace has a four-run lead late. You just can’t lose when you twice survive five-man infield plays with a runner on third in extras. You j",
+          "title": "New York Yankees vs. Chicago Cubs: Series Preview",
+          "url": "https://www.pinstripealley.com/yankees-game-information/199731/new-york-yankees-chicago-cubs-series-preview-probable-pitchers-max-fried-gerrit-cole-will-warren-imanaga",
+          "published": "2026-07-31T08:00:00+00:00",
+          "excerpt": "After wrapping up a series against the White Sox on Thursday, the Yankees don’t have to go very far to open up their next matchup. Starting later today, the Yankees are making their across town to the north side of Chica",
           "image": ""
         },
         {
-          "title": "Yankees potential trade target: Matt Chapman",
-          "url": "https://www.pinstripealley.com/yankees-roster/199400/yankees-trade-rumors-giants-matt-chapman-third-base-devers-mcmahon-rosario-deadline",
-          "published": "2026-07-30T07:00:00+00:00",
-          "excerpt": "Matt Chapman had been a big fantasy add for me for a while — he hit a lot of home runs, didn’t commit any errors, and played every day. He still remains a very good defender at third base, +5 by Statcast’s run value, and",
+          "title": "Yankees prospects: Christian Bethancourt hits two homers in Scranton debut",
+          "url": "https://www.pinstripealley.com/yankees-prospects/199815/yankees-prospects-christian-bethancourt-xavier-rivas-roderick-arias-luis-durango",
+          "published": "2026-07-31T07:00:00+00:00",
+          "excerpt": "Triple-A Scranton/Wilkes-Barre RailRiders: W, 11-0 at Iowa Cubs SS George Lombard Jr. 0-5, 1 R, 1 BB, 1 K, 1 CSDH J.C. Escarra 2-5, 1 RBI2B Marco Luciano 0-3, 1 R, 2 BB, 1 K3B Oswaldo Cabrera 3-5, 1 RBI, 1 RRF Yanquiel F",
           "image": ""
         },
         {
-          "title": "Yankees prospects: Lombard notches two hits in Scranton win",
-          "url": "https://www.pinstripealley.com/yankees-prospects/199559/yankees-top-prospects-george-lombard-brendan-beck-avina-dax-kilby",
-          "published": "2026-07-30T06:00:00+00:00",
-          "excerpt": "Triple-A Scranton/Wilkes-Barre RailRiders: W, 4-3 at Iowa Cubs SS George Lombard Jr. 2-4, BB, 2 K, SB — ho-hum, two knocks and steal for the top prospectC J.C. Escarra 0-32B Marco Luciano 2-4, HR, 2 RBI, K3B Oswaldo Cabr",
+          "title": "Today on Pinstripe Alley – 7/31/26",
+          "url": "https://www.pinstripealley.com/pinstripe-alley-discussions/199792/today-on-pinstripe-alley-yankees-7-31-26",
+          "published": "2026-07-31T06:00:00+00:00",
+          "excerpt": "The Yankees started their week in Chicago off on a strong note, winning the first two games, and it looked like they were well on their way to a series win and potentially a sweep when they were up 4-0 with Cam Schlittle",
           "image": ""
         }
       ],
@@ -54,6 +54,13 @@
       "kind": "bronx",
       "accent": "#c9a227",
       "posts": [
+        {
+          "title": "Weathers Deals, Bullpen Falters as White Sox Walk Off Yankees 2-1",
+          "url": "https://bronxpinstripes.com/articles/2026-07-30-yankees-vs-white-sox-recap",
+          "published": "July 30, 2026",
+          "excerpt": "Ryan Weathers threw seven scoreless innings, but Fernando Cruz walked in the winning run in the 11th as the White Sox topped the Yankees 2-1.",
+          "image": "https://cdn.sanity.io/images/8v97gwxg/production/b4277e286b66344905074250387e4924e8d58f60-1920x1080.jpg?rect=96%2C0%2C1728%2C1080&w=3840&h=500&q=80&auto=format"
+        },
         {
           "title": "Bullpen Blows Two Leads as White Sox Walk It Off in 12, 6-5",
           "url": "https://bronxpinstripes.com/articles/2026-07-29-yankees-vs-white-sox-recap",
@@ -81,13 +88,6 @@
           "published": "July 27, 2026",
           "excerpt": "Bryson Stott drove in five, Will Warren couldn't survive the third, and the Yankees dropped the finale 11-4 -- but still took the series.",
           "image": "https://cdn.sanity.io/images/8v97gwxg/production/59e1298b735b8d6dabffd3f71bbb0d6f92b587c3-1920x1080.jpg?rect=96%2C0%2C1728%2C1080&w=3840&h=500&q=80&auto=format"
-        },
-        {
-          "title": "Weathers Battles, Wells and Dominguez Go Deep as Yankees Take Down Phillies 3-1",
-          "url": "https://bronxpinstripes.com/articles/2026-07-25-yankees-vs-phillies-recap",
-          "published": "July 26, 2026",
-          "excerpt": "Weathers battles into the sixth, Wells and Dominguez go deep, and the Yankees take Game 2 in Philly 3-1 to seize a series lead.",
-          "image": "https://cdn.sanity.io/images/8v97gwxg/production/d32e6d0e9a7f6c962e5c738b8ea5da0a78756158-1920x1080.jpg?rect=96%2C0%2C1728%2C1080&w=3840&h=500&q=80&auto=format"
         }
       ],
       "status": "ok"
@@ -100,6 +100,20 @@
       "kind": "feed",
       "accent": "#df3b31",
       "posts": [
+        {
+          "title": "Latest Chatter On Tarik Skubal",
+          "url": "https://www.mlbtraderumors.com/2026/07/latest-chatter-on-tarik-skubal.html",
+          "published": "2026-07-31T02:32:06+00:00",
+          "excerpt": "Tarik Skubal is going to dominate baseball’s headlines for the next few days. The two-time reigning AL Cy Young winner may have made his final start in a Detroit uniform yesterday. The Tigers squandered a 7-0 lead and fi",
+          "image": ""
+        },
+        {
+          "title": "Yankees, Braves, Rangers Among Teams Looking For Right-Handed Outfielder",
+          "url": "https://www.mlbtraderumors.com/2026/07/yankees-braves-rangers-among-teams-looking-for-right-handed-outfielder.html",
+          "published": "2026-07-30T18:09:45+00:00",
+          "excerpt": "Right-handed bats are at a premium this deadline. The Mariners and Phillies were already known to be looking for help against lefty pitching, but there’s ample competition for righty-hitting outfielders in particular. Jo",
+          "image": ""
+        },
         {
           "title": "Mets Rumors: Holmes, Peralta, Alvarez, Torrens",
           "url": "https://www.mlbtraderumors.com/2026/07/mets-trade-rumors-clay-holmes-freddy-peralta.html",
@@ -120,20 +134,6 @@
           "published": "2026-07-28T21:10:58+00:00",
           "excerpt": "The Marlins are willing to trade catcher/first baseman Liam Hicks, according to Mark Feinsand of MLB.com. He adds that the Cardinals could be willing to move a catcher as well, most likely Pedro Pagés or Iván Herrera. Fe",
           "image": ""
-        },
-        {
-          "title": "Cody Bellinger To Miss 4-6 Weeks With Hamstring Strain",
-          "url": "https://www.mlbtraderumors.com/2026/07/yankees-place-cody-bellinger-on-il-with-left-hamstring-strain.html",
-          "published": "2026-07-27T21:45:04+00:00",
-          "excerpt": "July 27: Manager Aaron Boone told reporters, including Bryan Hoch of MLB.com, that Bellinger has a Grade 2 strain and will miss four to six weeks. July 26: The Yankees announced this afternoon that they’ve placed left fi",
-          "image": ""
-        },
-        {
-          "title": "AL East Notes: Bellinger, Suarez, Bassitt, Basallo, Matz",
-          "url": "https://www.mlbtraderumors.com/2026/07/al-east-notes-bellinger-suarez-bassitt-basallo-matz.html",
-          "published": "2026-07-26T02:40:49+00:00",
-          "excerpt": "Yankees outfielder Cody Bellinger was removed in the bottom of the eighth inning against the Phillies on Saturday with a hamstring injury. He’s set to undergo testing. Bellinger downplayed the issue after the game. “It j",
-          "image": ""
         }
       ],
       "status": "ok"
@@ -147,39 +147,39 @@
       "accent": "#1c4d8c",
       "posts": [
         {
-          "title": "Ryan McMahon's quote was way better than Aaron Boone's after Yankees' deflating Ali Sanchez mess",
-          "url": "https://yanksgoyard.com/ryan-mcmahon-quote-was-way-better-than-aaron-boone-after-yankees-deflating-ali-sanchez-mess?utm_source=RSS",
-          "published": "2026-07-30T13:56:48+00:00",
-          "excerpt": "Camilo Doval couldn't escape an 11th-inning jam because of Ali Sanchez, and Aaron Boone and Ryan McMahon had very different reactions to the Yankees' gaffe.",
-          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_4200,h_2362,x_0,y_221/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/43/01kysk14q6n04w5ja8hc.jpg"
+          "title": "Yankees should also target Mets outfielder if they're eyeing Luke Weaver trade",
+          "url": "https://yanksgoyard.com/yankees-should-also-target-mets-outfielder-if-they-re-eyeing-luke-weaver-trade?utm_source=RSS",
+          "published": "2026-07-31T15:08:00+00:00",
+          "excerpt": "The New York Yankees could find a couple of crucial solutions by pillaging the New York Mets roster, but one candidate is a better fit than the other.",
+          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_4950,h_2784,x_0,y_0/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/43/01kyne0xghdhbscr7jan.jpg"
         },
         {
-          "title": "Yankees Rumors: Cardinals All-Star Ivan Herrera connection leaves one glaring issue",
-          "url": "https://yanksgoyard.com/yankees-rumors-cardinals-all-star-ivan-herrera-connection-leaves-one-glaring-issue?utm_source=RSS",
-          "published": "2026-07-30T13:28:00+00:00",
-          "excerpt": "The New York Yankees have been connected to St. Louis Cardinals All-Star catcher Ivan Herrera.",
-          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_5653,h_3179,x_0,y_197/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/43/01kyqfejghp9x2bdeyt6.jpg"
+          "title": "Projecting a Yankees-Padres Mason Miller trade package after latest buzz",
+          "url": "https://yanksgoyard.com/projecting-a-yankees-padres-mason-miller-trade-package-after-latest-buzz?utm_source=RSS",
+          "published": "2026-07-31T13:25:00+00:00",
+          "excerpt": "The San Diego Padres are heavily scouting the New York Yankees system, foreshadowing a potential Mason Miller trade like this one.",
+          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_4275,h_2404,x_0,y_0/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/43/01kynj6skk2nxsazk477.jpg"
         },
         {
-          "title": "3 unexpected Yankees that can't be ruled out of trades ahead of 2026 deadline",
-          "url": "https://yanksgoyard.com/3-unexpected-yankees-that-cant-be-ruled-out-of-trades-ahead-of-2026-deadline?utm_source=RSS",
-          "published": "2026-07-30T11:13:00+00:00",
-          "excerpt": "The New York Yankees could get aggressive at the trade deadline, which could lead to some unexpected players getting shipped out of town.",
-          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_3439,h_1934,x_0,y_0/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/43/01kydk5fp7wx947h806x.jpg"
+          "title": "1 controversial trade Yankees should make before the 2026 deadline, 1 they must avoid",
+          "url": "https://yanksgoyard.com/1-controversial-trade-yankees-should-make-before-the-2026-deadline-1-they-must-avoid?utm_source=RSS",
+          "published": "2026-07-31T11:19:00+00:00",
+          "excerpt": "The New York Yankees are faced with many issues ahead of the trade deadline, and here are a couple of directions they should go in.",
+          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_3104,h_1746,x_0,y_1175/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/43/01kyhvgr03c96nzewznh.jpg"
         },
         {
-          "title": "Unexpected Dodgers trade rumor could (sort of) help Yankees solve Cody Bellinger dilemma",
-          "url": "https://yanksgoyard.com/unexpected-dodgers-trade-rumor-could-sort-of-help-yankees-solve-cody-bellinger-dilemma?utm_source=RSS",
-          "published": "2026-07-29T23:44:00+00:00",
-          "excerpt": "New speculation from a prominent MLB insider links the New York Yankees to a proven champion and right-handed bat.",
-          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_3663,h_2060,x_0,y_0/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/43/01kyn0t1r5g4jj2rmb46.jpg"
+          "title": "Clunky Ryan Jeffers trade alternative could scratch a known Yankees itch",
+          "url": "https://yanksgoyard.com/clunky-ryan-jeffers-trade-alternative-could-scratch-a-known-yankees-itch?utm_source=RSS",
+          "published": "2026-07-31T01:09:00+00:00",
+          "excerpt": "With the News that Ryan Jeffers might be off the table for the New York Yankees, they might be wise to turn to a surprising option.",
+          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_4209,h_2367,x_0,y_0/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/43/01kyr3vsmfkdzh6aggc5.jpg"
         },
         {
-          "title": "Twins GM's trade deadline declaration stops short of taking Ryan Jeffers off Yankees' radar",
-          "url": "https://yanksgoyard.com/twins-gm-trade-deadline-declaration-stops-short-of-taking-ryan-jeffers-off-yankees-radar?utm_source=RSS",
-          "published": "2026-07-29T21:02:00+00:00",
-          "excerpt": "The Minnesota Twins are buyers, but that won't stop the New York Yankees from chasing Ryan Jeffers specifically.",
-          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_4895,h_2753,x_0,y_177/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/43/01kypz598saw4fz3mpqa.jpg"
+          "title": "Yankees reminded exactly what trade deadline can't fix after horrible White Sox series",
+          "url": "https://yanksgoyard.com/yankees-reminded-exactly-what-trade-deadline-cant-fix-after-horrible-white-sox-series?utm_source=RSS",
+          "published": "2026-07-30T23:42:47+00:00",
+          "excerpt": "The New York Yankees split their series with the Chicago White Sox in the worst way imaginable. Momentum gone. Aaron Boone's teams always do this.",
+          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_1914,h_1076,x_0,y_37/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/43/01kytk1qzm5b1ck4x81e.jpg"
         }
       ],
       "status": "ok"
@@ -193,9 +193,23 @@
       "accent": "#0c2340",
       "posts": [
         {
+          "title": "Cruz takes the 'L' -- but the Yankees' offense takes the blame",
+          "url": "https://www.mlb.com/yankees/news/fernando-cruz-walks-in-winning-run-in-11th-for-yankees",
+          "published": "2026-07-30T23:27:00+00:00",
+          "excerpt": "",
+          "image": ""
+        },
+        {
           "title": "Catcher? Bullpen? Outfielder? Who are Yankees targeting at Deadline?",
           "url": "https://www.mlb.com/yankees/news/yankees-2026-trade-deadline-targets",
           "published": "2026-07-30T15:00:00+00:00",
+          "excerpt": "",
+          "image": ""
+        },
+        {
+          "title": "Re-ranking the top 10 deals from last year's Trade Deadline",
+          "url": "https://www.mlb.com/yankees/news/revisiting-top-10-trade-deadline-deals-from-2025",
+          "published": "2026-07-31T04:32:11+00:00",
           "excerpt": "",
           "image": ""
         },
@@ -210,20 +224,6 @@
           "title": "Schlittler keeps padding Cy Young résumé after 2-hit gem in Chicago",
           "url": "https://www.mlb.com/yankees/news/cam-schlittler-starts-yankees-vs-white-sox",
           "published": "2026-07-30T05:27:00+00:00",
-          "excerpt": "",
-          "image": ""
-        },
-        {
-          "title": "Generations of Yankees legends return to Bronx on Aug. 8 for Old-Timers' Day",
-          "url": "https://www.mlb.com/yankees/news/yankees-old-timers-day-aug-8-2026",
-          "published": "2026-07-29T17:39:00+00:00",
-          "excerpt": "",
-          "image": ""
-        },
-        {
-          "title": "Prospects who could be dealt by the Trade Deadline -- one for each team",
-          "url": "https://www.mlb.com/yankees/news/prospects-who-could-be-traded-at-2026-trade-deadline",
-          "published": "2026-07-29T22:45:00+00:00",
           "excerpt": "",
           "image": ""
         }
