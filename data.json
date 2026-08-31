@@ -1,5 +1,5 @@
 {
-  "refreshedAt": "2026-08-30T17:16:14.231879+00:00",
+  "refreshedAt": "2026-08-31T19:27:18.329904+00:00",
   "sites": [
     {
       "name": "Pinstripe Alley",
@@ -10,38 +10,38 @@
       "accent": "#d4a72c",
       "posts": [
         {
-          "title": "Yankees Rivalry Roundup: Rays rally against the Friars",
-          "url": "https://www.pinstripealley.com/mlb-news/205030/yankees-rivals-recap-rays-padres-white-sox-twins-astros-rangers-guardians-orioles-blue-jays-mariners",
-          "published": "2026-08-30T08:30:00+00:00",
-          "excerpt": "The Yankees split a day-night doubleheader against the Red Sox on Saturday, losing the day portion in shutout fashion before winning the nightcap with a wave of singles sprayed across the field. That meant that effective",
+          "title": "Yankees claim reliever John Schreiber off waivers from Royals",
+          "url": "https://www.pinstripealley.com/yankees-news/205274/yankees-claim-reliever-john-schreiber-waivers-royals-playoff-roster",
+          "published": "2026-08-31T14:55:05+00:00",
+          "excerpt": "Days after hitting the waiver wire, reliever John Schreiber is making a new home in the Bronx. The Yankees reportedly claimed Schreiber on Monday, according to MLB Insider Joel Sherman. The Royals placed him on waivers S",
           "image": ""
         },
         {
-          "title": "Yankees prospects: McMahon and Schmidt start rehabs in Somerset",
-          "url": "https://www.pinstripealley.com/yankees-prospects/205027/yankees-prospects-ryan-mcmahon-clarke-schmidt-anthony-volpe-jarred-kelenic",
-          "published": "2026-08-30T07:00:00+00:00",
-          "excerpt": "Triple-A Scranton/Wilkes-Barre RailRiders: W, 9-1 at Worcester Red Sox CF Jarred Kelenic 3-5, 1 RBI, 2 R, 1 SB — the former Mets and Mariners top prospect starting off strong3B Anthony Volpe 1-4, 1 R, 1 BB, 2 K, 1 SB — f",
+          "title": "On MLB’s most recent CBA proposals",
+          "url": "https://www.pinstripealley.com/mlb-news/205108/mlb-cba-proposal-offseason-break",
+          "published": "2026-08-31T13:00:00+00:00",
+          "excerpt": "This past Thursday, Major League Baseball made its latest round of proposals to the Players’ Association, this type focusing on so-called “roster stability.” Claiming that roster churn during both the season and offseaso",
           "image": ""
         },
         {
-          "title": "Today on Pinstripe Alley – 8/30/26",
-          "url": "https://www.pinstripealley.com/pinstripe-alley-discussions/205021/today-on-pinstripe-alley-yankees-8-30-26",
-          "published": "2026-08-30T06:01:49+00:00",
-          "excerpt": "The Yankees opened this series against the Red Sox with a narrow 1-0 win, but they’d need more offense than that to do well in the scheduled doubleheader lined up on Saturday. The first game was a dud as they got shutout",
+          "title": "The Yankees Birthday Series, presented by Pinstripe Alley",
+          "url": "https://www.pinstripealley.com/yankees-history-trivia/172748/yankees-history-birthdays-famous-players-born-on-this-day",
+          "published": "2026-08-31T12:01:50+00:00",
+          "excerpt": "During my tenure at Pinstripe Alley—hell, during my entire time as a baseball fan—I’ve never been shy about delving into the team’s history and exploring the lives of its long roll call of players, both incredible and re",
           "image": ""
         },
         {
-          "title": "Yankees news: George Lombard Jr. day-to-day with knee injury",
-          "url": "https://www.pinstripealley.com/yankees-news/204935/yankees-news-george-lombard-injury-update-clarke-schmidt-rehab-jarred-kelenic-elmer-rodriguez-justin-topa-dfa",
-          "published": "2026-08-30T05:00:00+00:00",
-          "excerpt": "ESPN: In case you missed the report on Pinstripe Alley, the Yankees had to pull rookie shortstop George Lombard Jr. from the nightcap of their doubleheader against the Red Sox. He appeared to tweak something on a check s",
+          "title": "Yankees Birthday of the Day: Claudell Washington",
+          "url": "https://www.pinstripealley.com/yankees-history-trivia/205093/yankees-history-claudell-washington-birthday-august-31-outfield-10000-home-run",
+          "published": "2026-08-31T11:30:00+00:00",
+          "excerpt": "Claudell Washington had a darn fine major league career, sticking around for 17 seasons, making a couple of All-Star appearances. More notably, he was part of the World Series champion Oakland Athletics in his rookie sea",
           "image": ""
         },
         {
-          "title": "Yankees single Red Sox to death as Max Fried returns to secure doubleheader split",
-          "url": "https://www.pinstripealley.com/yankees-scores-standings/204972/yankees-red-sox-game-score-recap-doubleheader-max-fried-return-george-lombard-injury-luis-garcia",
-          "published": "2026-08-29T22:41:44+00:00",
-          "excerpt": "In the opening game of today’s doubleheader, the Yankees just didn’t show up. They were shut out, while the pitching and defense had some shaky moments, leading to a less-than-stellar loss. However with another game to p",
+          "title": "Yankees Rivalry Roundup: Tampa wins again; El Gary goes yard for the 200th time",
+          "url": "https://www.pinstripealley.com/mlb-news/205189/yankees-rivalry-roundup-rays-chicago-houston-texas-cleveland-baltimore-toronto",
+          "published": "2026-08-31T11:00:18+00:00",
+          "excerpt": "After the Yanks bludgeoned Boston Sunday, it was time to scoreboard watch. Most notably, could the Padres do us all a solid and knock off the Rays? To the surprise of absolutely no one, the answer was no. So while the Ya",
           "image": ""
         }
       ],
@@ -54,6 +54,13 @@
       "kind": "bronx",
       "accent": "#c9a227",
       "posts": [
+        {
+          "title": "Yankees Bury Red Sox 16-1, and the Eighth Inning Alone Was a Whole Season's Worth of Fun",
+          "url": "https://bronxpinstripes.com/articles/2026-08-30-yankees-vs-red-sox-recap",
+          "published": "August 30, 2026",
+          "excerpt": "Yankees 16, Red Sox 1. Heliot Ramos broke it open, Austin Wells made history, and the season series is officially over.",
+          "image": "https://cdn.sanity.io/images/8v97gwxg/production/6d09b7989dedafde9d08c4518965d2cf4cf59401-1920x1080.jpg?rect=96%2C0%2C1728%2C1080&w=3840&h=500&q=80&auto=format"
+        },
         {
           "title": "Yankees 1, Red Sox 0: Schlittler Silences His Hometown, Bellinger Ends the Threat",
           "url": "https://bronxpinstripes.com/articles/2026-08-28-yankees-vs-red-sox-recap",
@@ -81,13 +88,6 @@
           "published": "August 26, 2026",
           "excerpt": "Bellinger and Garcia went deep, but Yainer Diaz's two homers and a disastrous eighth sank the Yankees 9-7 in the series opener.",
           "image": "https://cdn.sanity.io/images/8v97gwxg/production/524f316a4b0381deaa4edb492ea20ec15526e8fc-1920x1080.jpg?rect=96%2C0%2C1728%2C1080&w=3840&h=500&q=80&auto=format"
-        },
-        {
-          "title": "Yankees 8, Blue Jays 3: A Five-Run Sixth Sends Toronto Packing",
-          "url": "https://bronxpinstripes.com/articles/2026-08-23-yankees-vs-blue-jays-recap",
-          "published": "August 23, 2026",
-          "excerpt": "Yankees 8, Blue Jays 3: a five-run sixth and two solo shots close out the series after Saturday's gut punch.",
-          "image": "https://cdn.sanity.io/images/8v97gwxg/production/b63fe141cf9115cd3be9bfb22b443d1fdd719abd-1920x1080.jpg?rect=96%2C0%2C1728%2C1080&w=3840&h=500&q=80&auto=format"
         }
       ],
       "status": "ok"
@@ -101,6 +101,27 @@
       "accent": "#df3b31",
       "posts": [
         {
+          "title": "Justin Topa Elects Free Agency",
+          "url": "https://www.mlbtraderumors.com/2026/08/yankees-justin-topa-elects-free-agency.html",
+          "published": "2026-08-31T19:05:02+00:00",
+          "excerpt": "The Yankees announced Monday that right-handed reliever Justin Topa elected free agency in lieu of an outright assignment to Triple-A Scranton/Wilkes-Barre. He’d been designated for assignment over the weekend, went uncl",
+          "image": ""
+        },
+        {
+          "title": "Yankees To Claim John Schreiber",
+          "url": "https://www.mlbtraderumors.com/2026/08/yankees-to-claim-john-schreiber.html",
+          "published": "2026-08-31T18:05:21+00:00",
+          "excerpt": "The Yankees are going to claim right-hander John Schreiber off waivers from the Royals, reports Joel Sherman of The New York Post. It was reported a couple of days ago that the Royals would be placing Schreiber on waiver",
+          "image": ""
+        },
+        {
+          "title": "Mitch Garver Exercises Assignment Clause In Yankees Contract",
+          "url": "https://www.mlbtraderumors.com/2026/08/mitch-garver-exercises-assignment-clause-in-yankees-contract.html",
+          "published": "2026-08-30T22:32:18+00:00",
+          "excerpt": "Mitch Garver joined the Yankees on a minor league deal earlier this month, and it was reported at the time that the contract contained an opt-out clause. The New York Post’s Joel Sherman writes that the opt-out provision",
+          "image": ""
+        },
+        {
           "title": "Yankees Notes: Lombard, Judge, Schmidt, McMahon",
           "url": "https://www.mlbtraderumors.com/2026/08/yankees-notes-lombard-judge-schmidt-mcmahon.html",
           "published": "2026-08-30T03:34:30+00:00",
@@ -112,27 +133,6 @@
           "url": "https://www.mlbtraderumors.com/2026/08/yankees-designate-justin-topa-for-assignment.html",
           "published": "2026-08-29T20:56:29+00:00",
           "excerpt": "The Yankees have designated right-handed reliever Justin Topa for assignment, per a team announcement. They activated lefty Max Fried from the 15-day injured list in a corresponding move. New York now has two open spots ",
-          "image": ""
-        },
-        {
-          "title": "Yankees Sign Jarred Kelenic To Minors Contract",
-          "url": "https://www.mlbtraderumors.com/2026/08/yankees-sign-jarred-kelenic-to-minors-contract.html",
-          "published": "2026-08-29T17:36:23+00:00",
-          "excerpt": "The Triple-A Scranton/Wilkes-Barre RailRiders (the Yankees’ top affiliate) announced that outfielder Jarred Kelenic has signed a contract with the club. Kelenic became a free agent earlier this week after clearing waiver",
-          "image": ""
-        },
-        {
-          "title": "Yankees To Activate Max Fried On Saturday",
-          "url": "https://www.mlbtraderumors.com/2026/08/yankees-to-activate-max-fried-on-saturday.html",
-          "published": "2026-08-28T23:44:55+00:00",
-          "excerpt": "The Yankees placed left-hander Max Fried on the 15-day injured list on Aug. 17 (retroactive to the 14th) with a bone bruise in his pitching elbow. The same injury diagnosis caused Fried to miss two months earlier this ye",
-          "image": ""
-        },
-        {
-          "title": "Fernando Cruz Diagnosed With Partial UCL Tear",
-          "url": "https://www.mlbtraderumors.com/2026/08/fernando-cruz-diagnosed-with-partial-ucl-tear.html",
-          "published": "2026-08-27T03:31:34+00:00",
-          "excerpt": "Yankees setup man Fernando Cruz has a partially torn UCL, manager Aaron Boone informed reporters after tonight’s win over the Astros (relayed by Brendan Kuty of The Athletic). The righty is seeking additional opinions as",
           "image": ""
         }
       ],
@@ -147,39 +147,39 @@
       "accent": "#1c4d8c",
       "posts": [
         {
-          "title": "Mets just gave Yankees extremely bold platoon option with Luis Robert Jr. decision",
-          "url": "https://yanksgoyard.com/mets-just-gave-yankees-extremely-bold-platoon-option-with-luis-robert-jr-decision?utm_source=RSS",
-          "published": "2026-08-30T16:48:00+00:00",
-          "excerpt": "The New York Mets decision to put Luis Robert Jr. on waivers presents the New York Yankees with a bold solution to help ease some of Trent Grisham's woes.",
-          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_4496,h_2529,x_0,y_0/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/43/01m190m3jffktbbatevc.jpg"
+          "title": "Yankees claim underrated ex-Red Sox bullpen option from Royals ahead of September call-ups",
+          "url": "https://yanksgoyard.com/yankees-claim-underrated-ex-red-sox-bullpen-option-from-royals-ahead-of-september-call-ups?utm_source=RSS",
+          "published": "2026-08-31T17:56:13+00:00",
+          "excerpt": "The Yankees just claimed a potentially viable playoff bullpen piece in John Schreiber of the Kansas City Royals. But ... where does he fit right now?",
+          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_5605,h_3152,x_0,y_102/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/GettyImages/mmsport/43/01m1ce5sftjrk49wyt9s.jpg"
         },
         {
-          "title": "Yankees make bold pitching promotion to save bullpen after Red Sox doubleheader",
-          "url": "https://yanksgoyard.com/yankees-make-bold-pitching-promotion-to-save-bullpen-after-red-sox-doubleheader-luis-gil?utm_source=RSS",
-          "published": "2026-08-30T15:32:57+00:00",
-          "excerpt": "The New York Yankees have promoted Luis Gil after the doubleheader against the Boston Red Sox.",
-          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_2400,h_1350,x_0,y_229/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/GettyImages/mmsport/43/01m19mcmzp1p6sykmmyt.jpg"
+          "title": "Anthony Volpe has earned one last chance with Yankees in September amid heater",
+          "url": "https://yanksgoyard.com/anthony-volpe-has-earned-one-last-chance-with-yankees-in-september-amid-heater?utm_source=RSS",
+          "published": "2026-08-31T16:48:00+00:00",
+          "excerpt": "Anthony Volpe's recent hot stretch at Triple-A has earned him an important bench role with the New York Yankees as fall approaches.",
+          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_3116,h_1752,x_0,y_35/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/GettyImages/mmsport/43/01m124tqaeqf8x0vment.jpg"
         },
         {
-          "title": "Yankees' surprising Anthony Volpe wrinkle in Triple-A lineup could put Amed Rosario on notice",
-          "url": "https://yanksgoyard.com/yankees-surprising-anthony-volpe-wrinkle-in-triple-a-lineup-could-put-amed-rosario-on-notice?utm_source=RSS",
-          "published": "2026-08-30T13:21:00+00:00",
-          "excerpt": "Anthony Volpe started at third base in Triple-A this weekend, a total surprise given the plan was second base. With George Lombard Jr. locked in at short, Volpe finally has zero pressure and a real path back if it clicks",
-          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_4869,h_2738,x_0,y_292/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/43/01m18765yw7qyby31mt4.jpg"
+          "title": "Childish Ceddanne Rafaela behavior proves exact point for Yankees as Red Sox fans double down",
+          "url": "https://yanksgoyard.com/childish-ceddanne-rafaela-behavior-proves-exact-point-for-yankees-as-red-sox-fans-double-down?utm_source=RSS",
+          "published": "2026-08-31T15:05:00+00:00",
+          "excerpt": "Ceddanne Rafaela channeled his inner Red Sox fan and acted insufferable after things didn't go his way against the Yankees.",
+          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_4000,h_2250,x_0,y_34/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/GettyImages/mmsport/43/01m1bxxb0993r4a297qf.jpg"
         },
         {
-          "title": "Frightening stat illuminates how few Yankees relievers are doing all the heavy lifting",
-          "url": "https://yanksgoyard.com/frightening-stat-illuminates-how-few-yankees-relievers-are-doing-all-the-heavy-lifting?utm_source=RSS",
-          "published": "2026-08-30T11:25:00+00:00",
-          "excerpt": "The disparity between the New York Yankees' top three relievers and the rest of the bullpen and depth arms shows that disaster is always lurking.",
-          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_4224,h_2376,x_0,y_0/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/43/01m11w7ex4m6qkke06gr.jpg"
+          "title": "Red Sox radio announcer absurdly threatens Yankees' Jazz Chisholm on-air over late effort",
+          "url": "https://yanksgoyard.com/red-sox-radio-announcer-absurdly-threatens-yankees-jazz-chisholm-on-air-over-late-effort?utm_source=RSS",
+          "published": "2026-08-31T13:28:30+00:00",
+          "excerpt": "Jazz Chisholm Jr. of the New York Yankees should be beaten, according to Red Sox announcer Will Flemming.",
+          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_3795,h_2134,x_0,y_44/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/GettyImages/mmsport/43/01m1bysvrpqk20me91t1.jpg"
         },
         {
-          "title": "Yankees refuse to let George Lombard Jr. injury derail cathartic blowout win over Red Sox",
-          "url": "https://yanksgoyard.com/yankees-refuse-to-let-george-lombard-jr-injury-derail-cathartic-blowout-win-over-red-sox?utm_source=RSS",
-          "published": "2026-08-30T02:41:30+00:00",
-          "excerpt": "The New York Yankees defeated the Boston Red Sox, though George Lombard Jr. left the victory early.",
-          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_5804,h_3264,x_0,y_426/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/GettyImages/mmsport/43/01m18849367b18qwpr6c.jpg"
+          "title": "Ranking the New York Yankees' third basemen in Alex Rodriguez's wake",
+          "url": "https://yanksgoyard.com/ranking-the-new-york-yankees-third-basemen-in-alex-rodriguez-wake?utm_source=RSS",
+          "published": "2026-08-31T11:14:00+00:00",
+          "excerpt": "Who does Ryan McMahon have to pass to become the New York Yankees' best third baseman since Alex \"A-Rod\" Rodriguez?",
+          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_4718,h_2653,x_0,y_97/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/43/01kg85vnck80jxevb2b2.jpg"
         }
       ],
       "status": "ok"
@@ -193,6 +193,27 @@
       "accent": "#0c2340",
       "posts": [
         {
+          "title": "Yankees add more depth to 'pen with waiver claim of Schreiber",
+          "url": "https://www.mlb.com/yankees/news/yankees-claim-john-schreiber-off-waivers",
+          "published": "2026-08-31T18:50:00+00:00",
+          "excerpt": "",
+          "image": ""
+        },
+        {
+          "title": "'I needed this': Ramos hits 1st HR for Yankees, who take season series from Sox",
+          "url": "https://www.mlb.com/yankees/news/heliot-ramos-hits-first-homer-as-yankee",
+          "published": "2026-08-31T00:09:00+00:00",
+          "excerpt": "",
+          "image": ""
+        },
+        {
+          "title": "Apple Immersive makes futuristic debut during Red Sox-Yanks broadcast",
+          "url": "https://www.mlb.com/yankees/news/red-sox-yankees-get-first-apple-vision-pro-broadcast",
+          "published": "2026-08-31T15:25:03+00:00",
+          "excerpt": "",
+          "image": ""
+        },
+        {
           "title": "Judge to travel with Yanks on West Coast trip, plans to ramp up activities",
           "url": "https://www.mlb.com/yankees/news/aaron-judge-to-join-yankees-on-west-coast-trip",
           "published": "2026-08-30T17:10:05+00:00",
@@ -200,30 +221,9 @@
           "image": ""
         },
         {
-          "title": "Yanks, Lombard relieved that right knee injury isn't too serious",
-          "url": "https://www.mlb.com/yankees/news/george-lombard-jr-exits-red-sox-yankees-game-with-knee-injury",
-          "published": "2026-08-30T16:37:00+00:00",
-          "excerpt": "",
-          "image": ""
-        },
-        {
-          "title": "Yanks back Fried's solid return with 13 singles to split DH vs. Red Sox",
-          "url": "https://www.mlb.com/yankees/news/max-fried-returns-in-yankees-win-over-red-sox",
-          "published": "2026-08-30T04:16:00+00:00",
-          "excerpt": "",
-          "image": ""
-        },
-        {
-          "title": "Defensive mistakes magnified as Yanks' bats stay quiet in DH opener",
-          "url": "https://www.mlb.com/yankees/news/yankees-shut-out-by-red-sox-in-doubleheader-opener",
-          "published": "2026-08-29T21:09:00+00:00",
-          "excerpt": "",
-          "image": ""
-        },
-        {
-          "title": "Schmidt, McMahon kick off rehab assignments at Double-A",
-          "url": "https://www.mlb.com/yankees/news/clarke-schmidt-ryan-mcmahon-on-minor-league-rehab",
-          "published": "2026-08-30T01:09:00+00:00",
+          "title": "Yankees back in Top 5 in Power Rankings",
+          "url": "https://www.mlb.com/yankees/news/mlb-power-rankings-for-the-week-of-august-30-2026",
+          "published": "2026-08-31T02:30:12+00:00",
           "excerpt": "",
           "image": ""
         }
