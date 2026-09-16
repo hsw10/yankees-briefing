@@ -1,5 +1,5 @@
 {
-  "refreshedAt": "2026-09-15T17:35:21.450568+00:00",
+  "refreshedAt": "2026-09-16T17:34:06.186802+00:00",
   "sites": [
     {
       "name": "Pinstripe Alley",
@@ -9,6 +9,27 @@
       "kind": "feed",
       "accent": "#d4a72c",
       "posts": [
+        {
+          "title": "New York Yankees @ Minnesota Twins: Max Fried vs. Bailey Ober",
+          "url": "https://www.pinstripealley.com/yankees-game-live-discussion/207644/yankees-twins-mlb-gamethread-lineups-how-to-watch-bailey-ober-max-fried",
+          "published": "2026-09-15T19:10:00+00:00",
+          "excerpt": "The Yankees are heading to the playoffs. In a season of uncertainty (particularly around injuries), that much is certain after last night’s series-opening comeback victory officially punched their ticket for the ninth ti",
+          "image": ""
+        },
+        {
+          "title": "MLB Mid-September Check-in: NL West",
+          "url": "https://www.pinstripealley.com/mlb-news/207482/yankees-rivals-mlb-september-check-in-nl-west-standings-dodgers-padres-diamondbacks-wild-card",
+          "published": "2026-09-15T16:00:00+00:00",
+          "excerpt": "Every day, Pinstripe Alley offers updates on what the Yankees’ top American League opponents are up to through the Rivalry Roundup. The AL East is well-trodden ground there, but with the final month of the season just ah",
+          "image": ""
+        },
+        {
+          "title": "MLB Mid-September Check-in: NL Central",
+          "url": "https://www.pinstripealley.com/mlb-news/207453/yankees-rivals-standings-nl-central-playoffs-wild-card-brewers-cubs-misiorowski-crow-armstrong",
+          "published": "2026-09-15T14:30:00+00:00",
+          "excerpt": "Every day, Pinstripe Alley offers updates on what the Yankees’ top American League opponents are up to through the Rivalry Roundup. The AL East is well-trodden ground there, but with the Trade Deadline behind us, we’re g",
+          "image": ""
+        },
         {
           "title": "MLB Mid-September Check-in: NL East",
           "url": "https://www.pinstripealley.com/mlb-news/207455/mlb-mid-september-check-in-nl-east-braves-phillies-marlins-nationals-mets",
@@ -22,27 +43,6 @@
           "published": "2026-09-15T11:30:00+00:00",
           "excerpt": "Before he was known as Slow Joe, Judd Bruce Doyle was a right-handed pitcher growing up in the middle of Kansas. Like most of the time, his love of baseball was not born in an organized league, but in the school lot and ",
           "image": ""
-        },
-        {
-          "title": "Yankees Rivalry Roundup: Blue Jays loss leads to Yanks’ playoff clinch",
-          "url": "https://www.pinstripealley.com/mlb-news/207515/yankees-rivals-scores-blue-jays-loss-clinch-playoffs-white-sox-guardians-orioles-mets",
-          "published": "2026-09-15T10:30:00+00:00",
-          "excerpt": "The Yankees were the only member of the top trio of American League teams playing on Monday, with both the Rays and Red Sox off inadvance of series against the A’s and Rangers, respectively. The AL West-leading [read: .5",
-          "image": ""
-        },
-        {
-          "title": "Yankees At-Bat(s) of the Week: Anthony Volpe (9/10)",
-          "url": "https://www.pinstripealley.com/yankees-analysis-sabermetrics/207474/yankees-hitting-analysis-anthony-volpe-grand-slam-rockies-triple-a-recall",
-          "published": "2026-09-15T09:30:00+00:00",
-          "excerpt": "I’m sure Anthony Volpe wanted to make a statement in his first game back from his demotion to Triple-A on August 4th, but I bet even he couldn’t have dreamt of the impact he would author. In his first MLB action in over ",
-          "image": ""
-        },
-        {
-          "title": "The Yankees have found a way in 2026",
-          "url": "https://www.pinstripealley.com/yankees-analysis-sabermetrics/207579/yankees-injuries-standings-postseason-bullpen-offensive-woes-aaron-boone-brian-cashman",
-          "published": "2026-09-15T08:00:00+00:00",
-          "excerpt": "The Yankees will officially be playing baseball in October after last night’s loss by Toronto, shortly followed by New York’s own win allowing for a more raucous celebration rather than a somber one. It has not come easi",
-          "image": ""
         }
       ],
       "status": "ok"
@@ -54,6 +54,13 @@
       "kind": "bronx",
       "accent": "#c9a227",
       "posts": [
+        {
+          "title": "Bellinger's Blast, Fried's Gem Power Yankees Past Twins 8-1",
+          "url": "https://bronxpinstripes.com/articles/2026-09-15-yankees-vs-twins-recap",
+          "published": "September 16, 2026",
+          "excerpt": "Bellinger's early homer and Fried's gem carried the Yankees past the Twins 8-1, their third straight win as they roll toward October.",
+          "image": "https://cdn.sanity.io/images/8v97gwxg/production/1a4c6f992c72652c568849a43597ed0178b0fcfa-1920x1080.jpg?rect=96%2C0%2C1728%2C1080&w=3840&h=500&q=80&auto=format"
+        },
         {
           "title": "Yankees Erupt for Six in the Eighth, Beat Twins 8-3 in Minnesota",
           "url": "https://bronxpinstripes.com/articles/2026-09-14-yankees-vs-twins-recap",
@@ -81,13 +88,6 @@
           "published": "September 12, 2026",
           "excerpt": "Cody Bellinger's three-run homer and Carlos Rodon's 8 K's lift the Yankees past the Mets 6-4 on the 25th anniversary of 9/11.",
           "image": "https://cdn.sanity.io/images/8v97gwxg/production/bee4b164e464903d1a9246604506990f25f67a33-1920x1080.jpg?rect=96%2C0%2C1728%2C1080&w=3840&h=500&q=80&auto=format"
-        },
-        {
-          "title": "Volpe's Grand Slam Punctuates a Rockies Sweep as Yankees Roll 10-3",
-          "url": "https://bronxpinstripes.com/articles/2026-09-10-yankees-vs-rockies-recap",
-          "published": "September 11, 2026",
-          "excerpt": "Anthony Volpe's grand slam highlighted a six-run seventh as the Yankees completed a Rockies sweep, 10-3, and pushed their win streak to three.",
-          "image": "https://cdn.sanity.io/images/8v97gwxg/production/b65a495654140d8e71c4e21d5f210d6c4c26b8f7-1920x1080.jpg?rect=96%2C0%2C1728%2C1080&w=3840&h=500&q=80&auto=format"
         }
       ],
       "status": "ok"
@@ -100,6 +100,20 @@
       "kind": "feed",
       "accent": "#df3b31",
       "posts": [
+        {
+          "title": "Yankees Designate Oswaldo Cabrera For Assignment",
+          "url": "https://www.mlbtraderumors.com/2026/09/yankees-designate-oswaldo-cabrera-for-assignment.html",
+          "published": "2026-09-16T15:41:10+00:00",
+          "excerpt": "The Yankees have designated infielder/outfielder Oswaldo Cabrera for assignment, the club announced Wednesday. His spot on the roster goes to right-hander Clarke Schmidt, who has been reinstated from the 60-day injured l",
+          "image": ""
+        },
+        {
+          "title": "Yankees To Activate Clarke Schmidt On Wednesday",
+          "url": "https://www.mlbtraderumors.com/2026/09/yankees-likely-to-activate-clarke-schmidt-on-wednesday.html",
+          "published": "2026-09-16T04:25:35+00:00",
+          "excerpt": "The Yankees are likely to reinstate Clarke Schmidt from the 60-day injured list before Wednesday’s series finale in Minnesota, manager Aaron Boone told Gary Phillips of The New York Daily News. They optioned Bradley Hann",
+          "image": ""
+        },
         {
           "title": "A Look At Brent Headrick’s Breakout Campaign",
           "url": "https://www.mlbtraderumors.com/2026/09/a-look-at-brent-headricks-breakout-campaign.html",
@@ -120,20 +134,6 @@
           "published": "2026-09-10T19:55:03+00:00",
           "excerpt": "Seibu Lions right-hander Kaima Taira is drawing a lot of interest from Major League teams, with ESPN’s Jeff Passan writing that Taira is “expected to be posted in early November.” Such Japanese news outlets as Sanspo and",
           "image": ""
-        },
-        {
-          "title": "Yankees Place Jazz Chisholm Jr. On Injured List",
-          "url": "https://www.mlbtraderumors.com/2026/09/yankees-to-place-jazz-chisholm-jr-on-injured-list.html",
-          "published": "2026-09-10T16:30:49+00:00",
-          "excerpt": "Sept. 10: The Yankees have now formally announced Chisholm’s IL placement and Volpe’s recall from Triple-A. Chisholm’s IL stint is retroactive to yesterday, so he can return in nine days’ time. Sept. 9, 5:20pm: It seems ",
-          "image": ""
-        },
-        {
-          "title": "Yankees Activate Aaron Judge From 60-Day Injured List",
-          "url": "https://www.mlbtraderumors.com/2026/09/yankees-activate-aaron-judge-from-60-day-injured-list.html",
-          "published": "2026-09-08T04:59:47+00:00",
-          "excerpt": "After over three months on the injured list, Aaron Judge is back in action. The Yankees announced that Judge has been reinstated from the 60-day IL, in advance of New York’s game with the Rockies on Tuesday. Right-hander",
-          "image": ""
         }
       ],
       "status": "ok"
@@ -147,39 +147,39 @@
       "accent": "#1c4d8c",
       "posts": [
         {
-          "title": "Predicting which Yankees lose their roster spots when Ryan Weathers, Clarke Schmidt return",
-          "url": "https://yanksgoyard.com/predicting-which-yankees-lose-their-roster-spots-when-ryan-weathers-clarke-schmidt-return?utm_source=RSS",
-          "published": "2026-09-15T17:34:00+00:00",
-          "excerpt": "The New York Yankees will get reinforcements with Clarke Schmidt and Ryan Weathers coming back, but that will lead to some tough bullpen cuts.",
-          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_3369,h_1895,x_0,y_0/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/43/01m2jskmqqjxctaa3n7d.jpg"
+          "title": "Yankees make emotional Oswaldo Cabrera decision we should've seen coming to activate Clarke Schmidt",
+          "url": "https://yanksgoyard.com/yankees-make-emotional-oswaldo-cabrera-decision-we-shouldve-seen-coming-to-activate-clarke-schmidt?utm_source=RSS",
+          "published": "2026-09-16T15:53:48+00:00",
+          "excerpt": "The New York Yankees DFA'd Oswaldo Cabrera to activate Clarke Schmidt from the 60-Day Injured List.",
+          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_5802,h_3263,x_0,y_581/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/GettyImages/mmsport/43/01m2ndw6a0s9cdt9grfj.jpg"
         },
         {
-          "title": "Time is running out for Max Fried to figure himself out before Yankees' playoff run",
-          "url": "https://yanksgoyard.com/time-is-running-out-for-max-fried-to-figure-himself-out-before-yankees-playoff-run?utm_source=RSS",
-          "published": "2026-09-15T15:43:00+00:00",
-          "excerpt": "The New York Yankees will need Max Fried to find his groove again if they want a real shot at winning the World Series.",
-          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_2988,h_1680,x_0,y_109/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/43/01m2918jpsvp5p2we5v6.jpg"
+          "title": "Legitimate George Lombard Jr. concerns mount after Yankees' playoff clinch",
+          "url": "https://yanksgoyard.com/legitimate-george-lombard-jr-concerns-mount-after-yankees-playoff-clinch?utm_source=RSS",
+          "published": "2026-09-16T13:22:00+00:00",
+          "excerpt": "The New York Yankees have no other choice but to roll with rookie shortstop George Lombard Jr. during their postseason run.",
+          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_6610,h_3718,x_0,y_152/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/43/01m2k1cd5vgetcrrtt3e.jpg"
         },
         {
-          "title": "Aaron Judge got revenge on the Yankees' weirdest hater with playoff clinch night HR",
-          "url": "https://yanksgoyard.com/aaron-judge-got-revenge-on-the-yankees-weirdest-hater-with-playoff-clinch-night-hr?utm_source=RSS",
-          "published": "2026-09-15T13:43:50+00:00",
-          "excerpt": "The New York Yankees defeated AJ Minter of the Twins, who called out their fanbase, to help clinch a playoff spot on Monday.",
-          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_6414,h_3607,x_254,y_112/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/GettyImages/mmsport/43/01m2jkqpzk60hmcqnfvf.jpg"
+          "title": "Ridiculous compilation of Blue Jays errors dooming their season is Yankees 2025 karma",
+          "url": "https://yanksgoyard.com/ridiculous-compilation-of-blue-jays-errors-dooming-their-season-is-yankees-2025-karma?utm_source=RSS",
+          "published": "2026-09-16T11:23:00+00:00",
+          "excerpt": "The Toronto Blue Jays may have been riding high last year, but it's the New York Yankees who could have the last laugh in 2026.",
+          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_4538,h_2552,x_0,y_350/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/43/01m2k55vtxgwxvvf86et.jpg"
         },
         {
-          "title": "Yankees-Rafael Devers trade speculation reaches ESPN after fans lobbied at deadline",
-          "url": "https://yanksgoyard.com/yankees-rafael-devers-trade-speculation-reaches-espn-after-fans-lobbied-at-deadline?utm_source=RSS",
-          "published": "2026-09-15T11:14:00+00:00",
-          "excerpt": "The New York Yankees are named as a perfect fit for Rafael Devers in an offseason trade, and it makes a ton of sense.",
-          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_2159,h_1214,x_0,y_313/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/43/01m2dknkb3t3q98qyehz.jpg"
+          "title": "Will Warren did exactly what Yankees fans demand of their struggling starters (and it worked)",
+          "url": "https://yanksgoyard.com/will-warren-did-exactly-what-yankees-fans-demand-of-their-struggling-starters-and-it-worked?utm_source=RSS",
+          "published": "2026-09-15T23:15:00+00:00",
+          "excerpt": "Will Warren of the New York Yankees has made tons of adjustments heading into an October bullpen role.",
+          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_3578,h_2012,x_0,y_164/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/GettyImages/mmsport/43/01m2js49t5yax7e45rzt.jpg"
         },
         {
-          "title": "Aaron Judge makes Yankees' playoff clinch worth the celebration after Blue Jays collapse",
-          "url": "https://yanksgoyard.com/aaron-judge-makes-yankees-playoff-clinch-worth-the-celebration-after-blue-jays-collapse?utm_source=RSS",
-          "published": "2026-09-15T02:48:56+00:00",
-          "excerpt": "The New York Yankees are headed to the postseason thanks to the division-rival Blue Jays collapsing vs the Tigers.",
-          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_7012,h_3944,x_0,y_312/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/43/01m2hfcf2wntcqfchx55.jpg"
+          "title": "An honest discussion about Yankees celebrating playoff clinch under current circumstances",
+          "url": "https://yanksgoyard.com/an-honest-discussion-about-yankees-celebrating-playoff-clinch-under-current-circumstances?utm_source=RSS",
+          "published": "2026-09-15T21:08:00+00:00",
+          "excerpt": "The New York Yankees clinched a spot in the 2026 playoffs on Monday and there was a debate about their \"celebration\" afterwards.",
+          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_3468,h_1950,x_0,y_185/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/GettyImages/mmsport/43/01m2jnyg2e04vsaam1k2.jpg"
         }
       ],
       "status": "ok"
@@ -193,6 +193,27 @@
       "accent": "#0c2340",
       "posts": [
         {
+          "title": "No letdown for Yanks, who cruise past Twins a night after clincher",
+          "url": "https://www.mlb.com/yankees/news/max-fried-pitches-7-strong-innings-in-yankees-win-over-twins",
+          "published": "2026-09-16T05:33:00+00:00",
+          "excerpt": "",
+          "image": ""
+        },
+        {
+          "title": "Judge held out of starting lineup day after Yanks clinch spot in playoff field",
+          "url": "https://www.mlb.com/yankees/news/aaron-judge-out-of-yankees-starting-lineup-on-september-15",
+          "published": "2026-09-15T22:40:00+00:00",
+          "excerpt": "",
+          "image": ""
+        },
+        {
+          "title": "Postseason FAQ: What's next for the Yankees?",
+          "url": "https://www.mlb.com/yankees/news/yankees-2026-postseason-faq",
+          "published": "2026-09-16T05:20:00+00:00",
+          "excerpt": "",
+          "image": ""
+        },
+        {
           "title": "Yankees check first box, head to postseason for third straight season",
           "url": "https://www.mlb.com/yankees/news/yankees-clinch-spot-in-2026-postseason",
           "published": "2026-09-15T05:07:00+00:00",
@@ -203,27 +224,6 @@
           "title": "All rise! Judge hits moonshot for first HR since return from IL",
           "url": "https://www.mlb.com/yankees/news/aaron-judge-hits-first-home-run-since-coming-off-il",
           "published": "2026-09-15T05:08:00+00:00",
-          "excerpt": "",
-          "image": ""
-        },
-        {
-          "title": "Postseason FAQ: What's next for the Yankees?",
-          "url": "https://www.mlb.com/yankees/news/yankees-2026-postseason-faq",
-          "published": "2026-09-15T05:05:03+00:00",
-          "excerpt": "",
-          "image": ""
-        },
-        {
-          "title": "Here are the 2026 Arizona Fall League rosters",
-          "url": "https://www.mlb.com/yankees/news/2026-arizona-fall-league-rosters",
-          "published": "2026-09-15T15:38:00+00:00",
-          "excerpt": "",
-          "image": ""
-        },
-        {
-          "title": "Will our final Cy Young poll foretell the winners?",
-          "url": "https://www.mlb.com/yankees/news/cam-schlittler-and-jacob-misiorowski-lead-final-2026-cy-young-poll",
-          "published": "2026-09-15T04:01:38+00:00",
           "excerpt": "",
           "image": ""
         }
