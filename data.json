@@ -1,5 +1,5 @@
 {
-  "refreshedAt": "2026-10-05T21:12:17.384428+00:00",
+  "refreshedAt": "2026-10-06T18:51:05.962107+00:00",
   "sites": [
     {
       "name": "Pinstripe Alley",
@@ -10,38 +10,38 @@
       "accent": "#d4a72c",
       "posts": [
         {
+          "title": "Yankees make a million errors, drop Game 2 of the ALDS to Tampa",
+          "url": "https://www.pinstripealley.com/yankees-scores-standings/210861/yankees-rays-playoffs-recap-errors-defense-alds-game-2-cam-schlittler-ben-rice-cody-bellinger",
+          "published": "2026-10-05T23:45:40+00:00",
+          "excerpt": "I hate Tropicana Field. I know many of you do too. If you are not a Yankees fan and are doing what I am also guilty of doing—reading the reactions of salty fans after playoff losses—grab your popcorn. This is the good st",
+          "image": ""
+        },
+        {
+          "title": "AL Division Series Game 2: Cam Schlittler vs. Freddy Peralta",
+          "url": "https://www.pinstripealley.com/yankees-game-live-discussion/210800/yankees-rays-game-2-alds-gamethread-lineups-how-to-watch-cam-schlittler-freddy-peralta-postseason",
+          "published": "2026-10-05T19:30:00+00:00",
+          "excerpt": "The playoff format in baseball is quite unforgiving, isn’t it? In a season where you play 162 games, the Yankees ended a team’s season in about 28 hours last week, but now they stare down the barrel of theirs being in se",
+          "image": ""
+        },
+        {
+          "title": "Aaron Boone instills faith in Schlittler ahead of ALDS Game 2 start",
+          "url": "https://www.pinstripealley.com/yankees-playoffs-mlb/210823/aaron-boone-cam-schlittler-alds-game-two-start-rays-mlb-postseason",
+          "published": "2026-10-05T18:39:15+00:00",
+          "excerpt": "Aaron Boone is sure Cam Schlittler is built for moments like getting the start against the Rays in the ALDS. During his conversation with the media ahead of Game 2 on Monday, the Yankees’ skipper responded to comments ab",
+          "image": ""
+        },
+        {
+          "title": "ALDS Game 2 Preview & lineup breakdown: Schlittler vs. Peralta",
+          "url": "https://www.pinstripealley.com/yankees-playoffs-mlb/210808/yankees-rays-alds-game-two-preview-schlittler-peralta-lineup-breakdown",
+          "published": "2026-10-05T17:36:33+00:00",
+          "excerpt": "Cam Schlittler will look to continue his hot streak in the postseason as he prepares to take the mound for Game 2, with a Yankees lineup that will battle Freddy Peralta to even up the Division Series. After a disappointi",
+          "image": ""
+        },
+        {
           "title": "Ask Pinstripe Alley: Yankees mailbag questions request",
           "url": "https://www.pinstripealley.com/pinstripe-alley-discussions/210791/yankees-mailbag-questions-answers-request-postseason-alds",
           "published": "2026-10-05T16:00:00+00:00",
           "excerpt": "The Yankees jumped through the Wild Card Series without incident, sweeping the Red Sox away in a 2-0 result that featured a 16-run differential, but they’re facing a much-tougher task now that they’re up against the Rays",
-          "image": ""
-        },
-        {
-          "title": "Brian Cashman and Dave Dombrowski: A comparison on how to build a contender",
-          "url": "https://www.pinstripealley.com/yankees-analysis-sabermetrics/210349/mlb-yankees-brian-cashman-dave-dombrowski-phillies-red-sox-tigers-trea-turner-chris-sale",
-          "published": "2026-10-05T13:00:00+00:00",
-          "excerpt": "The Wild Card Series came and went this year without much intrigue. The Yankees blew the Red Sox out of the water, the White Sox stuck the final stake into the dying heart of the Astros, and the Padres embarrassed the Cu",
-          "image": ""
-        },
-        {
-          "title": "Yankees Birthday of the Day: Aaron Guiel",
-          "url": "https://www.pinstripealley.com/yankees-history-trivia/210758/yankees-history-aaron-guiel-birthday-october-5",
-          "published": "2026-10-05T11:30:00+00:00",
-          "excerpt": "One of the things we have always loved about baseball is how the players can come in all shapes, sizes, and corners of the map. Aaron Guiel was born north of the United States border in Vancouver, BC, Canada. So far nort",
-          "image": ""
-        },
-        {
-          "title": "The Fight Over the 1911 World Series Film, and Its Effects Today",
-          "url": "https://www.pinstripealley.com/mlb-news/210748/mlb-history-film-rights-world-series-1911",
-          "published": "2026-10-05T09:00:00+00:00",
-          "excerpt": "These days, we take it for granted that we can watch baseball live on our televisions, but as we know, baseball has existed well before the television — well before the invention of the moving picture, or “movie,” in fac",
-          "image": ""
-        },
-        {
-          "title": "What will Cam Schlittler do next?",
-          "url": "https://www.pinstripealley.com/yankees-analysis-sabermetrics/210633/yankees-mlb-playoffs-postseason-cam-schlittler-red-sox-alds-rays-wild-card",
-          "published": "2026-10-05T07:00:00+00:00",
-          "excerpt": "It’s becoming very easy to treat Cam Schlittler as a superhero, the old school television programs that end with the protagonist once again disposing of the villain, with everything present on screen except the ads for c",
           "image": ""
         }
       ],
@@ -54,6 +54,13 @@
       "kind": "bronx",
       "accent": "#c9a227",
       "posts": [
+        {
+          "title": "Rays 5, Yankees 2: Four Errors Bury Ben Rice's Two Homers",
+          "url": "https://bronxpinstripes.com/articles/2026-10-05-yankees-vs-rays-recap",
+          "published": "October 5, 2026",
+          "excerpt": "Ben Rice homered twice, but four Yankees errors helped the Rays win Game 2, 5-2, and take a 2-0 ALDS lead.",
+          "image": "https://cdn.sanity.io/images/8v97gwxg/production/1cd4cd35340a0899bab88ec712d4f864c20d2296-1920x1080.jpg?rect=96%2C0%2C1728%2C1080&w=3840&h=500&q=80&auto=format"
+        },
         {
           "title": "Rasmussen Shuts Down the Yankees, Rays Take ALDS Game 1",
           "url": "https://bronxpinstripes.com/articles/2026-10-03-yankees-vs-tampa-bay-rays-recap",
@@ -81,13 +88,6 @@
           "published": "September 25, 2026",
           "excerpt": "Will Warren struck out seven in relief and the bats broke out late as the Yankees beat the Orioles 6-3 to salvage a doubleheader split.",
           "image": "https://cdn.sanity.io/images/8v97gwxg/production/432d035bdb9d40f53b689a102ef2a4b53b1917ee-1920x1080.jpg?rect=96%2C0%2C1728%2C1080&w=3840&h=500&q=80&auto=format"
-        },
-        {
-          "title": "Alonso's Two Homers, Beavers' Slam Bury Yankees 10-2 in Series Opener",
-          "url": "https://bronxpinstripes.com/articles/2026-09-25-yankees-vs-orioles-recap",
-          "published": "September 25, 2026",
-          "excerpt": "Pete Alonso went deep twice and Dylan Beavers added a grand slam as the Orioles routed the Yankees 10-2 to open the series.",
-          "image": "https://cdn.sanity.io/images/8v97gwxg/production/0f0ba74773a9e416f70a5ae0f9154f7500efda27-1920x1080.jpg?rect=96%2C0%2C1728%2C1080&w=3840&h=500&q=80&auto=format"
         }
       ],
       "status": "ok"
@@ -147,39 +147,39 @@
       "accent": "#1c4d8c",
       "posts": [
         {
-          "title": "Aaron Boone's Yankees vs. Rays Game 2 lineup proves he's either confident or stubborn",
-          "url": "https://yanksgoyard.com/aaron-boone-s-yankees-vs-rays-game-2-lineup-proves-either-confident-or-stubborn?utm_source=RSS",
-          "published": "2026-10-05T20:44:48+00:00",
-          "excerpt": "The New York Yankees have run back the same lineup for Game 2 of the ALDS against the Tampa Bay Rays.",
-          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_5032,h_2830,x_0,y_172/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/GettyImages/mmsport/43/01m46wf1y3jmv34df77k.jpg"
+          "title": "Austin Wells just admitted the Yankees' biggest flaw as scouts swarm to laugh at them",
+          "url": "https://yanksgoyard.com/austin-wells-just-admitted-the-yankees-biggest-flaw-as-scouts-swarm-to-laugh-at-them?utm_source=RSS",
+          "published": "2026-10-06T15:33:00+00:00",
+          "excerpt": "Austin Wells said the Yankees' biggest flaw out loud after Game 2 disaster vs. Rays",
+          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_4926,h_2770,x_0,y_165/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/GettyImages/mmsport/43/01m48th0q54ssz0b2y2b.jpg"
         },
         {
-          "title": "Ex-Yankees lightning rod Gary Sanchez just played an outsized role in Mason Miller's collapse",
-          "url": "https://yanksgoyard.com/ex-yankees-lightning-rod-gary-sanchez-just-played-an-outsized-role-in-mason-miller-collapse?utm_source=RSS",
-          "published": "2026-10-05T15:08:00+00:00",
-          "excerpt": "Gary Sanchez, formerly of the New York Yankees, took a huge AB before Jackson Chourio of the Brewers walked off Mason Miller of the Padres.",
-          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_8404,h_4727,x_0,y_102/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/GettyImages/mmsport/43/01m44p53xnqz4bhtdjb4.jpg"
+          "title": "Jazz Chisholm Jr.'s postgame quote added more infuriating nonsense to late-stage Yankees career",
+          "url": "https://yanksgoyard.com/jazz-chisholm-jr-postgame-quote-added-more-infuriating-nonsense-to-late-stage-yankees-career?utm_source=RSS",
+          "published": "2026-10-06T14:32:00+00:00",
+          "excerpt": "The playoffs represented a final opportunity for Jazz Chisholm Jr. to secure his future with the New York Yankees, but his sloppy Game 2 showing killed that hope.",
+          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_6048,h_3402,x_0,y_267/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/43/01m48c0h6c20dzvtnft5.jpg"
         },
         {
-          "title": "Yankees chose remarkably unfair moment for Giancarlo Stanton's first at-bat in months",
-          "url": "https://yanksgoyard.com/yankees-chose-remarkably-unfair-moment-for-giancarlo-stanton-s-first-at-bat-in-months?utm_source=RSS",
-          "published": "2026-10-05T13:12:00+00:00",
-          "excerpt": "The Yankees placed Giancarlo Stanton in a high-leverage position after months away from game action, and plenty of fans are bound to dislike the decision.",
-          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_5363,h_3016,x_0,y_40/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/GettyImages/mmsport/43/01m43xj974ax9te9gbm5.jpg"
+          "title": "George Lombard Jr., Spencer Jones Game 2 defensive mess will leave Yankees questioning foundation",
+          "url": "https://yanksgoyard.com/george-lombard-jr-spencer-jones-game-2-defensive-mess-will-leave-yankees-questioning-foundation?utm_source=RSS",
+          "published": "2026-10-06T13:12:00+00:00",
+          "excerpt": "The New York Yankees made fools of themselves on defense yet again during their Game 2 loss against the Tampa Bay Rays.",
+          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_2933,h_1649,x_0,y_75/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/43/01m47p46ev9a4n2dkvyx.jpg"
         },
         {
-          "title": "Brutal Junior Caminero-Yankees connection resurfaces, proves New York fumbled the bag",
-          "url": "https://yanksgoyard.com/brutal-junior-caminero-yankees-connection-resurfaces-proves-new-york-fumbled-the-bag?utm_source=RSS",
-          "published": "2026-10-05T11:26:00+00:00",
-          "excerpt": "As the New York Yankees take on the Tampa Bay Rays, they'll focus on combating Junior Caminero, who once could've solved the club's long-time third base issues.",
-          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_2885,h_1622,x_0,y_123/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/43/01m40k1ysvhgr74z12t4.jpg"
+          "title": "Aaron Boone's annual Yankees playoff humiliation hit stunning new low in Game 2 embarrassment vs. Rays",
+          "url": "https://yanksgoyard.com/aaron-boone-s-annual-yankees-playoff-humiliation-hit-stunning-new-low-in-game-2-embarrassment-vs-rays?utm_source=RSS",
+          "published": "2026-10-06T10:42:00+00:00",
+          "excerpt": "The New York Yankees beat themselves against the Tampa Bay Rays in a harrowing laugher.",
+          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_6859,h_3858,x_0,y_103/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/GettyImages/mmsport/43/01m47aqrk5dpfqf4d6eq.jpg"
         },
         {
-          "title": "Yankees landing 2 unexpected names on draft debut leaderboard underscores surprising success",
-          "url": "https://yanksgoyard.com/yankees-landing-2-unexpected-names-on-draft-debut-leaderboard-underscores-surprising-success?utm_source=RSS",
-          "published": "2026-10-04T21:32:00+00:00",
-          "excerpt": "A pair of unheralded New York Yankees' draftees landing on the top-10 debuts list further illustrates how phenomenal the club's 2026 draft class is.",
-          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_7337,h_4127,x_0,y_0/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/43/01m3h1w3btjf6wn1099b.jpg"
+          "title": "Jazz Chisholm's baffling defensive choice was the enduring image of Yankees' Game 2 choke",
+          "url": "https://yanksgoyard.com/jazz-chisholm-s-baffling-defensive-choice-was-the-enduring-image-of-yankees-game-2-choke?utm_source=RSS",
+          "published": "2026-10-06T03:30:28+00:00",
+          "excerpt": "Jazz Chisholm of the New York Yankees was on another planet in Game 2 vs. Rays.",
+          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_3584,h_2016,x_0,y_2/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/GettyImages/mmsport/43/01m47ks6c6nhq6ycbzpe.jpg"
         }
       ],
       "status": "ok"
@@ -193,37 +193,37 @@
       "accent": "#0c2340",
       "posts": [
         {
-          "title": "Yankees-Rays ALDS Game 2 FAQ, lineups (8 p.m. ET, TBS/HBO Max)",
-          "url": "https://www.mlb.com/yankees/news/yankees-vs-rays-alds-game-2-starting-lineups-and-pitching-matchup",
-          "published": "2026-10-05T20:38:00+00:00",
+          "title": "'We beat ourselves': 4-error game pushes Yanks to brink of elimination",
+          "url": "https://www.mlb.com/yankees/news/yankees-lose-alds-game-2-2026",
+          "published": "2026-10-06T06:28:00+00:00",
           "excerpt": "",
           "image": ""
         },
         {
-          "title": "Jones, Lombard learning (and growing) together on baseball's biggest stage",
-          "url": "https://www.mlb.com/yankees/news/spencer-jones-george-lombard-jr-first-postseason-yankees",
-          "published": "2026-10-04T19:42:10+00:00",
+          "title": "Down 0-2, Yanks have seen this script before and flipped it",
+          "url": "https://www.mlb.com/yankees/news/yankees-0-2-hole-postseason-history",
+          "published": "2026-10-06T14:21:48+00:00",
           "excerpt": "",
           "image": ""
         },
         {
-          "title": "Rockin' Trop puts Yanks, Schlittler on notice for Game 2 with largest crowd in 16 years",
-          "url": "https://www.mlb.com/yankees/news/rays-sold-out-tropicana-field-game-1-2026-alds",
-          "published": "2026-10-04T04:45:50+00:00",
+          "title": "Rays-Yankees ALDS Game 3 FAQ (Wed., 8 p.m. ET, TBS/HBO Max)",
+          "url": "https://www.mlb.com/yankees/news/rays-vs-yankees-alds-game-3-starting-lineups-and-pitching-matchup",
+          "published": "2026-10-06T06:47:22+00:00",
           "excerpt": "",
           "image": ""
         },
         {
-          "title": "The new pitch making Cam Schlittler even nastier",
-          "url": "https://www.mlb.com/yankees/news/yankees-cam-schlittler-dominating-with-new-curveball",
-          "published": "2026-10-04T17:42:40+00:00",
-          "excerpt": "Yankees ace threw career-high 32 curveballs in AL Wild Card Series",
+          "title": "Yankees turn to Fried to save season when ALDS resumes in Bronx",
+          "url": "https://www.mlb.com/yankees/news/max-fried-yankees-starter-against-rays-in-game-3-2026-alds",
+          "published": "2026-10-06T06:22:21+00:00",
+          "excerpt": "",
           "image": ""
         },
         {
-          "title": "VOTE NOW: Rice named a finalist for 2026 Hank Aaron Award",
-          "url": "https://www.mlb.com/yankees/news/hank-aaron-award-finalists-for-2026",
-          "published": "2026-10-05T16:14:53+00:00",
+          "title": "5 takeaways: Rays' formula is working, and Yankees have yet to solve it",
+          "url": "https://www.mlb.com/yankees/news/takeaways-from-rays-yankees-alds-game-2",
+          "published": "2026-10-06T05:33:17+00:00",
           "excerpt": "",
           "image": ""
         }
