@@ -1,5 +1,5 @@
 {
-  "refreshedAt": "2026-10-13T19:48:14.475244+00:00",
+  "refreshedAt": "2026-10-14T17:53:37.061655+00:00",
   "sites": [
     {
       "name": "Pinstripe Alley",
@@ -9,6 +9,13 @@
       "kind": "feed",
       "accent": "#d4a72c",
       "posts": [
+        {
+          "title": "The Yankees Birthday Series, presented by Pinstripe Alley",
+          "url": "https://www.pinstripealley.com/yankees-history-trivia/172748/yankees-history-birthdays-famous-players-born-on-this-day",
+          "published": "2026-10-13T20:18:53+00:00",
+          "excerpt": "During my tenure at Pinstripe Alley—hell, during my entire time as a baseball fan—I’ve never been shy about delving into the team’s history and exploring the lives of its long roll call of players, both incredible and re",
+          "image": ""
+        },
         {
           "title": "Yankees Birthday of the Day: Charlie Silvera",
           "url": "https://www.pinstripealley.com/yankees-history-trivia/211650/yankees-history-charlie-silvera-birthday-october-13-backup-catcher-yogi-berra-world-series-rings",
@@ -31,17 +38,10 @@
           "image": ""
         },
         {
-          "title": "Today on Pinstripe Alley – 10/13/25",
+          "title": "Today on Pinstripe Alley – 10/13/26",
           "url": "https://www.pinstripealley.com/pinstripe-alley-discussions/211717/today-on-pinstripe-alley-10-13-25",
           "published": "2026-10-13T06:00:00+00:00",
           "excerpt": "We got double-LCS action on Monday and both games delivered, the Dodgers and Brewers exchanging haymakers before Milwaukee walked away with a 2-0 series lead and the Guardians pouring it on late against the Rays to take ",
-          "image": ""
-        },
-        {
-          "title": "Yankees news: Free agency could destroy New York’s bullpen",
-          "url": "https://www.pinstripealley.com/yankees-news/211679/yankees-mlb-news-free-agency-could-destroy-new-yorks-bullpen-david-bednar-tim-hill-john-schreiber-paul-blackburn-ryan-yarbrough-cameron-maybin-ronald-acuna-jr-baby-bombers-jazz-chisholm-jr",
-          "published": "2026-10-13T05:00:00+00:00",
-          "excerpt": "Roundtable | Matthew Schmidt: The Yankees entered the year with many question marks on their bullpen, yet they managed to post the second-best relief pitching ERA in the majors after the Boston Red Sox. However, there co",
           "image": ""
         }
       ],
@@ -101,6 +101,13 @@
       "accent": "#df3b31",
       "posts": [
         {
+          "title": "Diamondbacks Pursued Luis García Jr. At Trade Deadline",
+          "url": "https://www.mlbtraderumors.com/2026/10/diamondbacks-pursued-luis-garcia-jr-at-trade-deadline.html",
+          "published": "2026-10-13T23:38:03+00:00",
+          "excerpt": "The Nationals were shopping first baseman Luis García Jr. at the deadline and eventually traded him to the Yankees. Joel Sherman of The New York Post reports that the Diamondbacks were the runners-up for García. Sherman ",
+          "image": ""
+        },
+        {
           "title": "Could The Yankees Move On From Giancarlo Stanton?",
           "url": "https://www.mlbtraderumors.com/2026/10/could-the-yankees-move-on-from-giancarlo-stanton.html",
           "published": "2026-10-10T20:01:31+00:00",
@@ -127,13 +134,6 @@
           "published": "2026-10-06T22:26:38+00:00",
           "excerpt": "The Yankees acquired Luis García Jr. from the Nationals at the trade deadline. Since then, García has been the club’s regular first baseman, with Ben Rice mostly in the designated hitter slot. Next year, perhaps the Yank",
           "image": ""
-        },
-        {
-          "title": "Yankees Hope To Retain Pitching Coach Matt Blake",
-          "url": "https://www.mlbtraderumors.com/2026/10/yankees-hope-to-retain-pitching-coach-matt-blake.html",
-          "published": "2026-10-04T03:58:13+00:00",
-          "excerpt": "As the Yankees look to rebound against the Rays following a 1-0 loss tonight, a key member of their coaching staff will see his contract expire at the end of the year. Matt Blake, who has served as the Yankees’ pitching ",
-          "image": ""
         }
       ],
       "status": "ok"
@@ -147,18 +147,32 @@
       "accent": "#1c4d8c",
       "posts": [
         {
-          "title": "Marlins just gave one of the Yankees' biggest coaching failures another MLB chance",
-          "url": "https://yanksgoyard.com/marlins-just-gave-one-of-the-yankees-biggest-coaching-failures-another-mlb-chance?utm_source=RSS",
-          "published": "2026-10-13T15:12:00+00:00",
-          "excerpt": "Former New York Yankees hitting coach Dillon Lawson has been given the opportunity to prove that he really does know a thing or two about hitting.",
-          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_5184,h_2916,x_0,y_51/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/43/01m4s159rshw8n2ccf4z.jpg"
+          "title": "Phillies save Yankees from managerial mistake with run-it-back Don Mattingly decision",
+          "url": "https://yanksgoyard.com/phillies-save-yankees-from-managerial-mistake-with-run-it-back-don-mattingly-decision?utm_source=RSS",
+          "published": "2026-10-14T16:19:47+00:00",
+          "excerpt": "The Philadelphia Phillies will keep Don Mattingly off the Yankees' hands.",
+          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_5331,h_2998,x_0,y_57/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/GettyImages/mmsport/43/01m4xjwz885t4tz9dk1a.jpg"
         },
         {
-          "title": "One simple Dodgers bunt clip is the best argument yet for Yankees firing Aaron Boone",
-          "url": "https://yanksgoyard.com/one-simple-dodgers-bunt-clip-is-the-best-argument-yet-for-yankees-firing-aaron-boone?utm_source=RSS",
-          "published": "2026-10-13T13:17:00+00:00",
-          "excerpt": "The Los Angeles Dodgers practice fielding bunts and know how to field them. The New York Yankees and Jazz Chisholm don't seem to under Aaron Boone.",
-          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_2400,h_1350,x_0,y_247/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/GettyImages/mmsport/43/01m4rv4r4qnedt7y6xv3.jpg"
+          "title": "Yankees insider's strong Ryan McMahon hint comes with a Teruaki Sato downer",
+          "url": "https://yanksgoyard.com/yankees-insider-strong-ryan-mcmahon-hint-comes-with-a-teruaki-sato-downer?utm_source=RSS",
+          "published": "2026-10-14T15:11:00+00:00",
+          "excerpt": "New York Yankees insider Joel Sherman believes that the club will find a way to ditch Ryan McMahon this offseason, but Teruaki Sato won't be his replacement.",
+          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_5532,h_3111,x_0,y_0/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/43/01m4ww3h2w92jj5ctcaf.jpg"
+        },
+        {
+          "title": "Complete list of Yankees free agents with final predictions for who stays and who leaves in 2027",
+          "url": "https://yanksgoyard.com/complete-list-of-yankees-free-agents-with-final-predictions-for-who-stays-and-who-leaves-in-2027?utm_source=RSS",
+          "published": "2026-10-10T11:31:00+00:00",
+          "excerpt": "The New York Yankees will have a slew of players hitting free agency this offseason, and deciding who stays and who goes will be of paramount importance.",
+          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_4458,h_2507,x_0,y_0/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/43/01m3yjhe04kc7kbz8fsx.jpg"
+        },
+        {
+          "title": "MLB insider's Jazz Chisholm Jr. contract prediction should clarify consequences of his season",
+          "url": "https://yanksgoyard.com/mlb-insider-jazz-chisholm-jr-contract-prediction-should-clarify-the-reality-of-his-downfall?utm_source=RSS",
+          "published": "2026-10-10T21:22:00+00:00",
+          "excerpt": "Jazz Chisholm Jr. entered 2026 primed to cash in, but after a poor showing the New York Yankees need to let him walk despite the slide in contract expectations.",
+          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_4760,h_2677,x_0,y_0/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/43/01m4c7w6brhdj41new6s.jpg"
         },
         {
           "title": "7 moves the Yankees can make this offseason to get their mystique and aura back",
@@ -166,20 +180,6 @@
           "published": "2026-10-13T11:18:00+00:00",
           "excerpt": "The New York Yankees can end their embarrassing run of playoff failures and restore past greatness by making these seven offseason moves.",
           "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_5597,h_3148,x_0,y_0/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/43/01m4gkvpe3tyk0b8kwpd.jpg"
-        },
-        {
-          "title": "Is Aaron Judge asking Anthony Rizzo to deliver the message he can't to get Aaron Boone fired?",
-          "url": "https://yanksgoyard.com/is-aaron-judge-asking-anthony-rizzo-to-deliver-the-message-he-can-t-to-get-aaron-boone-fired?utm_source=RSS",
-          "published": "2026-10-12T22:12:00+00:00",
-          "excerpt": "Anthony Rizzo's fiery comments regarding the New York Yankees' failures seemed to take aim at Aaron Boone and might have a connection to Aaron Judge.",
-          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_5472,h_3078,x_0,y_0/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/43/01m4jwrjjcsjjw1yntjt.jpg"
-        },
-        {
-          "title": "CC Sabathia, Dellin Betances become latest former Yankees to call out declining standard of excellence",
-          "url": "https://yanksgoyard.com/cc-sabathia-dellin-betances-become-latest-former-yankees-to-call-out-declining-standard-of-excellence?utm_source=RSS",
-          "published": "2026-10-12T15:42:00+00:00",
-          "excerpt": "CC Sabathia and Dellin Betances join the growing crowd of former New York Yankees stars to call out the team, this time questioning the commitment to greatness.",
-          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_3585,h_2016,x_0,y_0/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/43/01m4ks6d9czgaxs15t9x.jpg"
         }
       ],
       "status": "ok"
@@ -192,6 +192,13 @@
       "kind": "feed",
       "accent": "#0c2340",
       "posts": [
+        {
+          "title": "Bellinger (LF), Wells (C), Caballero (UTIL) nominated for Gold Gloves",
+          "url": "https://www.mlb.com/yankees/news/2026-gold-glove-award-finalists",
+          "published": "2026-10-14T17:07:00+00:00",
+          "excerpt": "",
+          "image": ""
+        },
         {
           "title": "Yankees searching for answers after another season falls short of standard",
           "url": "https://www.mlb.com/yankees/news/yankees-seek-end-to-17-year-world-series-title-drought",
@@ -207,23 +214,16 @@
           "image": ""
         },
         {
+          "title": "Yankees Mag: Chambliss’ thrilling pennant-winning homer still brings goosebumps",
+          "url": "https://www.mlb.com/yankees/news/yankees-magazine-chris-chambliss-memorable-home-run",
+          "published": "2026-10-14T12:22:14+00:00",
+          "excerpt": "Fifty years later, Chris Chambliss’ thrilling pennant-winning homer still brings goosebumps",
+          "image": ""
+        },
+        {
           "title": "After being left out of Game 3 lineup, Chisholm says he wants to return to Yankees",
           "url": "https://www.mlb.com/yankees/news/anthony-volpe-jose-caballero-start-for-yankees-in-game-3-of-alds",
           "published": "2026-10-08T07:27:00+00:00",
-          "excerpt": "",
-          "image": ""
-        },
-        {
-          "title": "'It's a failure': Yankees' championship drought extended to 17 seasons",
-          "url": "https://www.mlb.com/yankees/news/yankees-lose-alds-2026",
-          "published": "2026-10-08T07:13:00+00:00",
-          "excerpt": "",
-          "image": ""
-        },
-        {
-          "title": "Volpe's potential game-tying homer waved off due to fan interference",
-          "url": "https://www.mlb.com/yankees/news/fan-interference-anthony-volpe-potential-homer-alds-game-3",
-          "published": "2026-10-08T06:03:00+00:00",
           "excerpt": "",
           "image": ""
         }
