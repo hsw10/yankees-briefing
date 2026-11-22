@@ -1,5 +1,5 @@
 {
-  "refreshedAt": "2026-11-21T19:59:30.213905+00:00",
+  "refreshedAt": "2026-11-22T20:13:55.969875+00:00",
   "sites": [
     {
       "name": "Pinstripe Alley",
@@ -9,6 +9,27 @@
       "kind": "feed",
       "accent": "#d4a72c",
       "posts": [
+        {
+          "title": "Yankees Birthday of the Day: Ricky Ledée",
+          "url": "https://www.pinstripealley.com/yankees-history-trivia/214888/yankees-history-ricky-ledee-birthday-november-22-outfield-1998-1999-world-series-david-justice-trade",
+          "published": "2026-11-22T11:00:00+00:00",
+          "excerpt": "When it comes to the 1990s and early 2000s Yankees’ dynasty, there’s probably a core groups of names you can put in their respective positions. I’m not just talking about the “Core Four” — as they came to be termed after",
+          "image": ""
+        },
+        {
+          "title": "Today on Pinstripe Alley – 11/22/26",
+          "url": "https://www.pinstripealley.com/pinstripe-alley-discussions/215175/yankees-mlb-pinstripe-alley-11-22-26",
+          "published": "2026-11-22T06:00:00+00:00",
+          "excerpt": "We’re just about a week out from MLB owners locking out the players, and that means we’ve had a pretty active weekend of hot stove rumors and action. The Mets surprised by locking up young outfielder AJ Ewing on a nine-y",
+          "image": ""
+        },
+        {
+          "title": "Yankees news: Brian Cashman shopping Spencer Jones, Jasson Domínguez, Ryan McMahon",
+          "url": "https://www.pinstripealley.com/yankees-news/215208/yankees-news-mlb-offseason-spencer-jones-jasson-dominguez-ryan-mcmahon-trade-rumors-roh-si-hwan-third-base",
+          "published": "2026-11-22T00:00:00+00:00",
+          "excerpt": "MLB.com: Brian Cashman revealed that he is fielding calls on Spencer Jones and Jasson Domínguez, with Jones in particular generating “a lot” of interest. Should the Yankees move both players this winter, it would only in",
+          "image": ""
+        },
         {
           "title": "Fans are paying the price for baseball’s lack of vision",
           "url": "https://www.pinstripealley.com/yankees-analysis-sabermetrics/215122/yankees-mlb-rawlings-private-equity-pe-lockout-offseason-cba-union-salary-cap",
@@ -21,27 +42,6 @@
           "url": "https://www.pinstripealley.com/yankees-history-trivia/215097/yankees-history-november-21-todd-erdos-1998-world-series-champion-clemens-leiter",
           "published": "2026-11-21T08:00:00+00:00",
           "excerpt": "Every season, every team in the league needs arms to fill in the gaps. Sure, the 2026 Yankees had a league-leading, star-studded pitching staff, but even they needed players to mop up occasionally, to shoulder the load w",
-          "image": ""
-        },
-        {
-          "title": "Today on Pinstripe Alley – 11/21/26",
-          "url": "https://www.pinstripealley.com/pinstripe-alley-discussions/215117/today-on-pinstripe-alley-11-21-26",
-          "published": "2026-11-21T06:00:00+00:00",
-          "excerpt": "As one old friend returns, two familiar faces depart. Jonathan Loáisiga will be back in New York next spring for the first time since 2025, but his former teammates Luis Gil and Fernando Cruz will retain the “former” sta",
-          "image": ""
-        },
-        {
-          "title": "Yankees news: Loáisiga back; Gil, Cruz cut loose",
-          "url": "https://www.pinstripealley.com/yankees-news/215105/yankees-news-bullpen-jonathan-loaisiga-fernando-cruz-luis-gil-relievers-cashman-jones-dominguez-prospects-kilby",
-          "published": "2026-11-21T00:00:00+00:00",
-          "excerpt": "MLB.com | Bryan Hoch: As John covered yesterday morning, the Yankees have brought Jonathan Loáisiga back into the fold, securing another deal with a familiar face in the early days of free agency to augment their bullpen",
-          "image": ""
-        },
-        {
-          "title": "Yankees non-tender Fernando Cruz, Luis Gil",
-          "url": "https://www.pinstripealley.com/yankees-roster/215126/yankees-nontender-fernando-cruz-luis-gil-arbitration-eligible-deadline-bullpen",
-          "published": "2026-11-20T18:03:06+00:00",
-          "excerpt": "The deadline to tender contracts to arbitration-eligible players arrived at 5pm ET on November 20th, and the Yankees have decided to non-tender Fernando Cruz and Luis Gil. The pair of right-handed pitchers become free ag",
           "image": ""
         }
       ],
@@ -101,6 +101,13 @@
       "accent": "#df3b31",
       "posts": [
         {
+          "title": "Jonathan Loaisiga Had Offers From Mets, Blue Jays",
+          "url": "https://www.mlbtraderumors.com/2026/11/jonathan-loaisiga-had-offers-from-mets-blue-jays.html",
+          "published": "2026-11-22T18:18:50+00:00",
+          "excerpt": "Right-hander Jonathan Loaisiga signed with the Yankees on Friday, bringing him back to New York after a season in Arizona. Loaisiga had other suitors, though, including another AL East squad and the other New York club. ",
+          "image": ""
+        },
+        {
           "title": "2026 Non-Tenders: American League",
           "url": "https://www.mlbtraderumors.com/2026/11/2026-non-tenders-american-league.html",
           "published": "2026-11-20T22:13:59+00:00",
@@ -127,13 +134,6 @@
           "published": "2026-11-20T14:10:18+00:00",
           "excerpt": "Reliever Jonathan Loaisiga is heading to the Yankees on a two-year deal. It’s an $18MM agreement that includes a club option for 2029. New York makes yet another addition to its bullpen by bringing Loaisiga back to the B",
           "image": ""
-        },
-        {
-          "title": "Yankees Notes: Garcia, Bohm, Hyde",
-          "url": "https://www.mlbtraderumors.com/2026/11/yankees-notes-garcia-bohm-hyde.html",
-          "published": "2026-11-19T18:55:52+00:00",
-          "excerpt": "The Mariners were looking for infield help and got it yesterday, agreeing to a six-player deal with the Royals which sent Maikel Garcia to Seattle. The Yankees are also looking to make changes on the infield and Jon Moro",
-          "image": ""
         }
       ],
       "status": "ok"
@@ -147,39 +147,39 @@
       "accent": "#1c4d8c",
       "posts": [
         {
+          "title": "4 destinations Luis Gil is most likely to land (and burn Yankees) after non-tender",
+          "url": "https://yanksgoyard.com/4-destinations-luis-gil-is-most-likely-to-land-and-burn-yankees-after-non-tender?utm_source=RSS",
+          "published": "2026-11-22T16:04:00+00:00",
+          "excerpt": "The New York Yankees could find that Luis Gil will come back to haunt them if he lands with one of these four teams following his non-tender.",
+          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_5329,h_2997,x_0,y_0/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/43/01m7zhy7kanrt4k7mh23.jpg"
+        },
+        {
+          "title": "Phillies trade candidate emerges and could be classic fit for Yankees’ bullpen",
+          "url": "https://yanksgoyard.com/phillies-trade-candidate-emerges-and-could-be-classic-fit-for-yankees-bullpen?utm_source=RSS",
+          "published": "2026-11-22T14:24:19+00:00",
+          "excerpt": "Struggling Philadelphia Phillies reliever Orion Kerkering is on the trade block, and the New York Yankees could find in him a perfect Matt Blake project.",
+          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_2895,h_1628,x_0,y_0/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/43/01m7teckznm1wdz9fmv2.jpg"
+        },
+        {
+          "title": "Yankees just avoided cheap Carson Kelly alternative at catcher that had fans fearing the worst",
+          "url": "https://yanksgoyard.com/yankees-just-got-a-cheap-carson-kelly-alternative-at-catcher-that-has-fans-fearing-the-worst?utm_source=RSS",
+          "published": "2026-11-22T12:22:00+00:00",
+          "excerpt": "Joey Bart has emerged as a potential target for the New York Yankees after the Chicago White Sox DFA'd him.",
+          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_2563,h_1441,x_851,y_185/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/GettyImages/mmsport/43/01m7qkrfqwtw23scag5b.jpg"
+        },
+        {
+          "title": "Yankees fans should be offended by Triple-A affiliate’s AI slop rebrand",
+          "url": "https://yanksgoyard.com/yankees-fans-should-be-offended-by-triple-a-affiliate-ai-slop-rebrand?utm_source=RSS",
+          "published": "2026-11-21T23:34:32+00:00",
+          "excerpt": "The New York Yankees' Triple-A affiliate is now known as the Scranton/Wilkes-Barre Highlanders. The name works, but the digital rebranding campaign did not.",
+          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_6734,h_3787,x_0,y_155/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/43/01m70q71sbszva1mv459.jpg"
+        },
+        {
           "title": "Yankees need key domino to fall before they can think about Ryan McMahon departure",
           "url": "https://yanksgoyard.com/yankees-need-key-domino-to-fall-before-they-can-think-about-ryan-mcmahon-departure?utm_source=RSS",
           "published": "2026-11-21T15:10:19+00:00",
           "excerpt": "The Yankees need to do one thing before trading Ryan McMahon.",
           "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_3354,h_1886,x_0,y_93/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/43/01m7rqt45z5qqsc86kcx.jpg"
-        },
-        {
-          "title": "Yankees should target this former Padres reliever over Adrian Morejon",
-          "url": "https://yanksgoyard.com/yankees-should-target-this-former-padres-reliever-over-adrian-morejon?utm_source=RSS",
-          "published": "2026-11-21T12:17:00+00:00",
-          "excerpt": "Adrian Morejon might get all of the buzz, but the New York Yankees can build a more complete bullpen by targeting his former teammate Jason Adam instead.",
-          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_4383,h_2465,x_0,y_0/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/43/01m7hvrre07s9a0mecz3.jpg"
-        },
-        {
-          "title": "MLB insider fans flames for possible Yankees-Jasson Dominguez trade",
-          "url": "https://yanksgoyard.com/mlb-insider-fans-flames-for-possible-yankees-jasson-dominguez-trade?utm_source=RSS",
-          "published": "2026-11-21T01:56:00+00:00",
-          "excerpt": "Jasson Dominguez was named a top New York Yankees trade candidate, but finding a landing spot for him will not be easy.",
-          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_2902,h_1632,x_0,y_0/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/43/01m7k4zsbg66smg28q7g.jpg"
-        },
-        {
-          "title": "Yankees' malfeasance on full display after Dodgers-Royce Lewis trade package revealed",
-          "url": "https://yanksgoyard.com/yankees-malfeasance-on-full-display-after-dodgers-royce-lewis-trade-package-revealed?utm_source=RSS",
-          "published": "2026-11-21T00:16:04+00:00",
-          "excerpt": "The New York Yankees missed a prime opportunity to buy low on Royce Lewis in what will surely benefit another contender.",
-          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_5475,h_3079,x_0,y_64/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/43/01m7xp4m4nxvt7nrnvbt.jpg"
-        },
-        {
-          "title": "Yankees make pair of depressing decisions, non-tender 2024 Rookie of the Year Luis Gil",
-          "url": "https://yanksgoyard.com/yankees-make-pair-of-depressing-decisions-non-tender-2024-rookie-of-the-year-luis-gil?utm_source=RSS",
-          "published": "2026-11-20T22:31:29+00:00",
-          "excerpt": "The New York Yankees non-tendered both Luis Gil and Fernando Cruz.",
-          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_4282,h_2408,x_0,y_125/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/GettyImages/mmsport/43/01m7xgarra0w3s8s0ze5.jpg"
         }
       ],
       "status": "ok"
