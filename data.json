@@ -1,5 +1,5 @@
 {
-  "refreshedAt": "2026-11-25T22:17:03.784824+00:00",
+  "refreshedAt": "2026-11-26T22:11:49.858166+00:00",
   "sites": [
     {
       "name": "Pinstripe Alley",
@@ -9,6 +9,13 @@
       "kind": "feed",
       "accent": "#d4a72c",
       "posts": [
+        {
+          "title": "Yankees news: Yanks eyeing more bullpen upgrades",
+          "url": "https://www.pinstripealley.com/yankees-news/215467/yankees-news-bullpen-adrian-morejon-alex-vesia-new-bench-coach-kyle-west-afl-gary-sanchez-marlins",
+          "published": "2026-11-26T00:00:00+00:00",
+          "excerpt": "The Athletic | Brendan Kuty: Yankees general manager Brian Cashman stated that the bullpen would be a point of focus going into the offseason, and so far, he’s backed up that talk. After bringing back David Bednar and Ti",
+          "image": ""
+        },
         {
           "title": "The Yankees Birthday Series, presented by Pinstripe Alley",
           "url": "https://www.pinstripealley.com/yankees-history-trivia/172748/yankees-history-birthdays-famous-players-born-on-this-day",
@@ -35,13 +42,6 @@
           "url": "https://www.pinstripealley.com/yankees-roster/212499/yankees-season-2026-review-report-cards-mlb",
           "published": "2026-11-25T11:18:57+00:00",
           "excerpt": "Now that we are steadily moving into the offseason with the 2026 Yankees’ disappointing ALDS loss to the Rays thankfully growing more distant to the present day, it’s time for Pinstripe Alley’s very own Roster Report Car",
-          "image": ""
-        },
-        {
-          "title": "Are we bearish on a salary cap?",
-          "url": "https://www.pinstripealley.com/yankees-analysis-sabermetrics/215397/yankees-mlb-offseason-free-agency-skubal-mets-sato-rogers-peralta-taira-gray",
-          "published": "2026-11-25T09:00:00+00:00",
-          "excerpt": "My father spent 40 years with his union, Sheet Metal Workers International Association Local 562. More than half of that time was spent organizing the union and bringing newer unions into being in the often burnt-out ind",
           "image": ""
         }
       ],
@@ -101,6 +101,13 @@
       "accent": "#df3b31",
       "posts": [
         {
+          "title": "Yankees Have Shown Interest In Alex Vesia",
+          "url": "https://www.mlbtraderumors.com/2026/11/yankees-have-shown-interest-in-alex-vesia.html",
+          "published": "2026-11-26T16:35:14+00:00",
+          "excerpt": "The Yankees are looking for upgrades in multiple areas. Brendan Kuty and Will Sammon of The Athletic report that they have shown interest in left-hander Alex Vesia as part of their search for bullpen upgrades. They are a",
+          "image": ""
+        },
+        {
           "title": "Yankees To Sign Jonathan Loaisiga",
           "url": "https://www.mlbtraderumors.com/2026/11/yankees-to-sign-jonathan-loaisiga.html",
           "published": "2026-11-25T19:25:18+00:00",
@@ -127,13 +134,6 @@
           "published": "2026-11-24T22:38:10+00:00",
           "excerpt": "Free agent first baseman Tyler Austin is generating interest from multiple clubs, reports Joel Sherman of The New York Post. He lists the Mets, Yankees, Cubs, Blue Jays and Rays as the teams in the mix. Austin, 35, would",
           "image": ""
-        },
-        {
-          "title": "Yankees Sign Brent Suter",
-          "url": "https://www.mlbtraderumors.com/2026/11/yankees-to-sign-brent-suter.html",
-          "published": "2026-11-24T16:55:36+00:00",
-          "excerpt": "November 24: The Yankees announced the Suter deal. The 11-year vet is the latest addition to New York’s bullpen. November 23: The Yankees and left-hander Brent Suter have reportedly agreed to a one-year deal with a club ",
-          "image": ""
         }
       ],
       "status": "ok"
@@ -147,39 +147,39 @@
       "accent": "#1c4d8c",
       "posts": [
         {
+          "title": "Jonathan Loaisiga’s contract details prove Yankees paid premium despite holding leverage",
+          "url": "https://yanksgoyard.com/jonathan-loaisiga-contract-details-prove-yankees-paid-premium-despite-holding-leverage?utm_source=RSS",
+          "published": "2026-11-26T15:54:00+00:00",
+          "excerpt": "The New York Yankees just committed more than $20 million to a pitcher they weren't willing to pay $5 million last offseason. A bit odd.",
+          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_3850,h_2165,x_0,y_75/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/GettyImages/mmsport/43/01m8a0vrkvn23m1dgx06.jpg"
+        },
+        {
+          "title": "Yankees insider lays out the one Ryan Weathers trade that could bring third base help before lockout",
+          "url": "https://yanksgoyard.com/yankees-insider-lays-out-the-one-ryan-weathers-trade-that-could-bring-third-base-help-before-lockout?utm_source=RSS",
+          "published": "2026-11-26T12:23:00+00:00",
+          "excerpt": "The New York Yankees need to find an upgrade at third base before next season, and making a trade could be the only way to make it happen.",
+          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_7675,h_4317,x_0,y_340/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/43/01m8a2athztv4jnk0xww.jpg"
+        },
+        {
+          "title": "Former Astros star reliever could be perfect Yankees fallback plan to Adrian Morejon",
+          "url": "https://yanksgoyard.com/former-astros-star-reliever-could-be-perfect-yankees-fallback-plan-to-adrian-morejon?utm_source=RSS",
+          "published": "2026-11-26T00:22:00+00:00",
+          "excerpt": "The Yankees could pivot to this former Astros reliever if they can't land Adrian Morejon.",
+          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_4588,h_2580,x_0,y_0/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/43/01m89pe6q86mf8s3wat5.jpg"
+        },
+        {
+          "title": "Yankees-Gary Sanchez smoke heats up following surprising October moment",
+          "url": "https://yanksgoyard.com/yankees-gary-sanchez-smoke-heats-up-following-surprising-october-moment?utm_source=RSS",
+          "published": "2026-11-25T22:05:00+00:00",
+          "excerpt": "Gary Sanchez opened the door to a return to the New York Yankees during the Milwaukee Brewers World Series run; now, the club is taking a step to make it real.",
+          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_8640,h_4860,x_0,y_0/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/43/01m89tsf221p3m56q790.jpg"
+        },
+        {
           "title": "Yankees make bench coach hire with AL East implications as Aaron Boone gets boost",
           "url": "https://yanksgoyard.com/yankees-make-bench-coach-hire-with-al-east-implications-as-aaron-boone-gets-boost?utm_source=RSS",
           "published": "2026-11-25T17:08:46+00:00",
           "excerpt": "The New York Yankees have made their decision and hired a new bench coach under Aaron Boone.",
           "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_3900,h_2193,x_0,y_0/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/GettyImages/mmsport/43/01m89smcy104e1j0vj38.jpg"
-        },
-        {
-          "title": "Yankees lose the third base option no one wanted after Royals strike in free agency",
-          "url": "https://yanksgoyard.com/yankees-lose-the-third-base-option-no-one-wanted-after-royals-strike-in-free-agency?utm_source=RSS",
-          "published": "2026-11-25T15:56:10+00:00",
-          "excerpt": "The Kansas City Royals have signed Alec Bohm instead of the New York Yankees in free agency.",
-          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_4535,h_2550,x_0,y_130/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/GettyImages/mmsport/43/01m89n5ww9q0rkmxffc5.jpg"
-        },
-        {
-          "title": "Yankees fans don’t get excitement around Blue Jays signing big-name Japanese starter",
-          "url": "https://yanksgoyard.com/yankees-fans-dont-get-excitement-around-blue-jays-signing-big-name-japanese-starter?utm_source=RSS",
-          "published": "2026-11-25T15:17:52+00:00",
-          "excerpt": "New York Yankees fans aren't exactly worried about the Blue Jays signing Kaima Taira, given what's under the hood.",
-          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_3000,h_1687,x_0,y_71/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/GettyImages/mmsport/43/01m89jktbtm0bfa4carr.jpg"
-        },
-        {
-          "title": "Yankees Rumors: Orioles infielders (not Gunnar Henderson) could save NYY on trade market",
-          "url": "https://yanksgoyard.com/yankees-rumors-orioles-infielders-not-gunnar-henderson-could-save-nyy-on-trade-market?utm_source=RSS",
-          "published": "2026-11-25T12:14:00+00:00",
-          "excerpt": "Could the New York Yankees link up with a division rival for an offseason trade?",
-          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_3600,h_2025,x_0,y_0/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/43/01m87vmd6x1vhxq8g2dd.jpg"
-        },
-        {
-          "title": "Yankees insider hints at trade if Adrian Morejon signing happens before lockout",
-          "url": "https://yanksgoyard.com/yankees-insider-hints-at-trade-if-adrian-morejon-signing-happens-before-lockout?utm_source=RSS",
-          "published": "2026-11-25T00:28:06+00:00",
-          "excerpt": "The New York Yankees signing Adrian Morejon could set off a domino effect that creates trade opportunities to tackle other needs, but only if the club acts fast.",
-          "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_2732,h_1536,x_0,y_0/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/43/01m8797w6rsb2z6b0sw0.jpg"
         }
       ],
       "status": "ok"
@@ -207,23 +207,23 @@
           "image": ""
         },
         {
+          "title": "26 things Sarah Langs is thankful for from the 2026 baseball season (which was the best!)",
+          "url": "https://www.mlb.com/yankees/news/things-to-be-thankful-for-from-2026-mlb-season",
+          "published": "2026-11-26T05:00:00+00:00",
+          "excerpt": "",
+          "image": ""
+        },
+        {
+          "title": "Each MLB club's best prospect acquired via trade",
+          "url": "https://www.mlb.com/yankees/news/best-prospects-who-were-trade-acquisitions",
+          "published": "2026-11-26T00:00:00+00:00",
+          "excerpt": "",
+          "image": ""
+        },
+        {
           "title": "Hill inks 1-year deal to return to Yankees",
           "url": "https://www.mlb.com/yankees/news/tim-hill-deal-with-yankees",
           "published": "2026-11-24T16:12:00+00:00",
-          "excerpt": "",
-          "image": ""
-        },
-        {
-          "title": "Yankees embrace giving spirit with Sleep Out, community events",
-          "url": "https://www.mlb.com/yankees/news/yankees-host-sleep-out-community-events-before-holidays",
-          "published": "2026-11-23T23:48:44+00:00",
-          "excerpt": "",
-          "image": ""
-        },
-        {
-          "title": "Yankees reach 1-year deal with lefty reliever Suter",
-          "url": "https://www.mlb.com/yankees/news/brent-suter-yankees-contract",
-          "published": "2026-11-24T20:21:00+00:00",
           "excerpt": "",
           "image": ""
         }
